@@ -50,7 +50,7 @@
 
 |**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
 |------|-----------------|--------------------|---------------------|
-|Day 1|Jan 1, 2021| Learnt Basics of **Advanced Excel** | [Codelabs](https://coursera.org/share/064db4645159df788ad0b31abebf1556)|
+|Day 1|Jan 1, 2021| Learnt Basics of **Advanced Excel** | [Coursera](https://coursera.org/share/064db4645159df788ad0b31abebf1556)|
  
  
  <!--
