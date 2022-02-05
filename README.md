@@ -46,7 +46,11 @@
 <a href="https://ankitgupta.bio.link/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://ankitgupta.bio.link/" alt="AnkitGupta" height="20" width="90" /></a>
 <a href="https://github.com/mrankitgupta/" target="blank"><img align="center" src="https://img.shields.io/github/followers/mrankitgupta?label=Follow&style=social&link=https://github.com/mrankitgupta/" alt="MrAnkitGupta" height="20" width="90" /></a>
   
+## Timeline
 
+|**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
+|------|-----------------|--------------------|---------------------|
+|Day 1|Jan 1, 2021| Learnt Basics of **Advanced Excel** | [Codelabs](https://coursera.org/share/064db4645159df788ad0b31abebf1556)|
  
  
  <!--
