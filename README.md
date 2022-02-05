@@ -55,6 +55,15 @@
 |Day 3|Jan 5, 2021| Started with **Data Structures** | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm)| 
 |Day 4|Jan 6, 2021| Continued with **Data Structures** | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm)| 
 |Day 5|Jan 7, 2021| Continued with **Data Structures** | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm) :white_check_mark:|
+|Day 6|Jan 8, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
+|Day 7|Jan 9, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
+|Day 8|Jan 10, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
+|Day 9|Jan 11, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
+|Day 10|Jan 12, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
+|Day 11|Jan 13, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial) :white_check_mark:| 
+|Day 12|Jan 14, 2021| Continued with **SQL** | [Coursera](https://www.javatpoint.com/dbms-tutorial)| 
+|Day 13|Jan 15, 2021| Continued with **SQL** | [Coursera](https://www.geeksforgeeks.org/data-structures/?ref=shm)| 
+|Day 14|Jan 16, 2021| Continued with **SQL** | [Coursera](https://www.geeksforgeeks.org/data-structures/?ref=shm)| 
  
  
  <!--
