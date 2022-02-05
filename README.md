@@ -2,8 +2,6 @@
 
 **I am sharing my Journey of 66DaysofData into Data Analytics by participating in Ken Jee's #66daysofdata challenge** 
 
-
-
 ## ⚙️ Technologies used
 
 * <a href="https://www.microsoft.com/en-in/microsoft-365/excel">Advance Excel</a><a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/60139fb461ef56a19afd68ea4094f6069f27ce49/icons8-microsoft-excel%20(1).svg" alt="excel" width="25" height="25"/> </a>
@@ -26,6 +24,7 @@
 * <a href="https://www.coursera.org/learn/statistics-for-data-science-python">Statistics</a><a href="https://www.coursera.org/learn/statistics-for-data-science-python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> </a>
 
 ## For any queries/doubts 🔗
+
 ### [Ankit Gupta](https://ankitgupta.bio.link/)
 
 <p align="left"> <a href="https://twitter.com/Mr_AnkitGupta01/" target="blank"><img src="https://img.shields.io/twitter/follow/Mr_AnkitGupta01?logo=twitter&style=for-the-badge" alt="Mr_AnkitGupta01" /></a> </p>
