@@ -4,7 +4,7 @@
 
 ## ⚙️ Technologies used
 
-* <a href="https://www.microsoft.com/en-in/microsoft-365/excel">Advance Excel</a><a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/60139fb461ef56a19afd68ea4094f6069f27ce49/icons8-microsoft-excel%20(1).svg" alt="excel" width="25" height="25"/> </a>
+* <a href="https://coursera.org/share/064db4645159df788ad0b31abebf1556">Advance Excel</a><a href="https://coursera.org/share/064db4645159df788ad0b31abebf1556" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/60139fb461ef56a19afd68ea4094f6069f27ce49/icons8-microsoft-excel%20(1).svg" alt="excel" width="25" height="25"/> </a>
 
 * <a href="https://www.javatpoint.com/data-structure-tutorial">Data Structures</a><a href="https://www.javatpoint.com/data-structure-tutorial" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/data-line-4.svg" alt="Data Structure" width="25" height="25"/> </a>
 
@@ -22,6 +22,17 @@
 * ##### Python Libraries : <a href="https://pandas.pydata.org/">Pandas</a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> | <a href="https://numpy.org/">Numpy</a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="25" height="20"/> </a> | <a href="https://matplotlib.org/">Matplotlib</a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/1331979c3208a15be2c2a6177ffc38ced3d6b434/Matplotlib_icon.svg" alt="matplotlib" width="25" height="20"/> </a> 
 
 * <a href="https://www.coursera.org/learn/statistics-for-data-science-python">Statistics</a><a href="https://www.coursera.org/learn/statistics-for-data-science-python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> </a>
+
+<h3 align="left">My Certifications 📜 🎓 ✔️</h3>
+
+- [Data Visualization with Advanced Excel](https://coursera.org/share/064db4645159df788ad0b31abebf1556)
+
+- Databases and SQL for Data Science with Python
+ 
+- Data Visualization with Tableau
+  
+- Data Analysis with Python
+
 
 ## For any queries/doubts 🔗
 
