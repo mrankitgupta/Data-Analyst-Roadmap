@@ -92,7 +92,7 @@
 |Day 40|Feb 11, 2021| Continued with **Python** | [Coursera]|
 |Day 41|Feb 12, 2021| Continued with **Python** | [Coursera]|
 |Day 42|Feb 13, 2021| Continued with **Python** | [Coursera] :white_check_mark:|
-|Day 43|Feb 14, 2021| Continued with **Python Libraries** | [Coursera]|
+|Day 43|Feb 14, 2021| Started with **Python Libraries** | [Coursera]|
 |Day 44|Feb 15, 2021| Continued with **Python Libraries** | [Coursera]|
 |Day 45|Feb 16, 2021| Continued with **Python Libraries** | [Coursera]|
 |Day 46|Feb 17, 2021| Continued with **Python Libraries** | [Coursera]|
@@ -102,14 +102,25 @@
 |Day 50|Feb 21, 2021| Continued with **Python Libraries** | [Coursera]|
 |Day 51|Feb 22, 2021| Continued with **Python Libraries** | [Coursera]|
 |Day 52|Feb 23, 2021| Continued with **Python Libraries** | [Coursera] :white_check_mark:|
+|Day 53|Feb 24, 2021| Started with **Statistics** | [Coursera]|
+|Day 54|Feb 25, 2021| Continued with **Statistics** | [Coursera]|
+|Day 55|Feb 26, 2021| Continued with **Statistics** | [Coursera] :white_check_mark:|
+|Day 56|Feb 27, 2021| Started with **Project** | [Project]|
+|Day 57|Feb 28, 2021| Continued with **Project** | [Project]|
+|Day 58|Mar 1, 2021| Continued with **Project** | [Project]|
+|Day 59|Mar 2, 2021| Continued with **Project** | [Project]|
+|Day 60|Mar 3, 2021| Continued with **Project** | [Project]|
+|Day 61|Mar 4, 2021| Continued with **Project** | [Project]|
+|Day 62|Mar 5, 2021| Continued with **Project** | [Project]|
+|Day 63|Mar 6, 2021| Continued with **Project** | [Project]|
+|Day 64|Mar 7, 2021| Continued with **Project** | [Project]|
+|Day 65|Mar 8, 2021| Continued with **Project** | [Project]|
+|Day 66|Mar 9, 2021| **Challenge accomplished** |:white_check_mark:|
+  
  
- 
- 
- 
- <!--
-     So happy to have followed the journey through for the past 66 days.
+So happy to have followed the journey through for the past 66 days.
 
 It has really been a great learning experience and I have learnt a lot.
 
 More importantly, I have developed the habit of learning Data Science every day no matter how small.
-     -->
+
