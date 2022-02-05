@@ -46,3 +46,13 @@
 <a href="https://ankitgupta.bio.link/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://ankitgupta.bio.link/" alt="AnkitGupta" height="20" width="90" /></a>
 <a href="https://github.com/mrankitgupta/" target="blank"><img align="center" src="https://img.shields.io/github/followers/mrankitgupta?label=Follow&style=social&link=https://github.com/mrankitgupta/" alt="MrAnkitGupta" height="20" width="90" /></a>
   
+
+ 
+ 
+ <!--
+     So happy to have followed the journey through for the past 66 days.
+
+It has really been a great learning experience and I have learnt a lot.
+
+More importantly, I have developed the habit of learning Data Science every day no matter how small.
+     -->
