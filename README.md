@@ -80,6 +80,30 @@
 |Day 28|Jan 30, 2021| Continued with **Python** | [Coursera]| 
 |Day 29|Jan 31, 2021| Continued with **Python** | [Coursera]| 
 |Day 30|Feb 1, 2021| Continued with **Python** | [Coursera]| 
+|Day 31|Feb 2, 2021| Continued with **Python** | [Coursera]| 
+|Day 32|Feb 3, 2021| Continued with **Python** | [Coursera]| 
+|Day 33|Feb 4, 2021| Continued with **Python** | [Coursera]| 
+|Day 34|Feb 5, 2021| Continued with **Python** | [Coursera]| 
+|Day 35|Feb 6, 2021| Continued with **Python** | [Coursera]| 
+|Day 36|Feb 7, 2021| Continued with **Python** | [Coursera]|
+|Day 37|Feb 8, 2021| Continued with **Python** | [Coursera]|
+|Day 38|Feb 9, 2021| Continued with **Python** | [Coursera]|
+|Day 39|Feb 10, 2021| Continued with **Python** | [Coursera]|
+|Day 40|Feb 11, 2021| Continued with **Python** | [Coursera]|
+|Day 41|Feb 12, 2021| Continued with **Python** | [Coursera]|
+|Day 42|Feb 13, 2021| Continued with **Python** | [Coursera] :white_check_mark:|
+|Day 43|Feb 14, 2021| Continued with **Python Libraries** | [Coursera]|
+|Day 44|Feb 15, 2021| Continued with **Python Libraries** | [Coursera]|
+|Day 45|Feb 16, 2021| Continued with **Python Libraries** | [Coursera]|
+|Day 46|Feb 17, 2021| Continued with **Python Libraries** | [Coursera]|
+|Day 47|Feb 18, 2021| Continued with **Python Libraries** | [Coursera]|
+|Day 48|Feb 19, 2021| Continued with **Python Libraries** | [Coursera]|
+|Day 49|Feb 20, 2021| Continued with **Python Libraries** | [Coursera]|
+|Day 50|Feb 21, 2021| Continued with **Python Libraries** | [Coursera]|
+|Day 51|Feb 22, 2021| Continued with **Python Libraries** | [Coursera]|
+|Day 52|Feb 23, 2021| Continued with **Python Libraries** | [Coursera] :white_check_mark:|
+ 
+ 
  
  
  <!--
