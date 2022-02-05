@@ -61,9 +61,25 @@
 |Day 9|Jan 11, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
 |Day 10|Jan 12, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
 |Day 11|Jan 13, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial) :white_check_mark:| 
-|Day 12|Jan 14, 2021| Continued with **SQL** | [Coursera](https://www.javatpoint.com/dbms-tutorial)| 
-|Day 13|Jan 15, 2021| Continued with **SQL** | [Coursera](https://www.geeksforgeeks.org/data-structures/?ref=shm)| 
-|Day 14|Jan 16, 2021| Continued with **SQL** | [Coursera](https://www.geeksforgeeks.org/data-structures/?ref=shm)| 
+|Day 12|Jan 14, 2021| Continued with **SQL** | [Coursera]| 
+|Day 13|Jan 15, 2021| Continued with **SQL** | [Coursera]| 
+|Day 14|Jan 16, 2021| Continued with **SQL** | [Coursera]|
+|Day 15|Jan 17, 2021| Continued with **SQL** | [Coursera]| 
+|Day 16|Jan 18, 2021| Continued with **SQL** | [Coursera] :white_check_mark:| 
+|Day 17|Jan 19, 2021| Started with **NoSQL** | [Coursera]| 
+|Day 18|Jan 20, 2021| Continued with **NoSQL** | [Coursera]| 
+|Day 19|Jan 21, 2021| Continued with **NoSQL** | [Coursera]| 
+|Day 20|Jan 22, 2021| Continued with **NoSQL** | [Coursera] :white_check_mark:| 
+|Day 21|Jan 23, 2021| Started with **Tableau & Data Visualization** | [Coursera]|
+|Day 22|Jan 24, 2021| Continued with **Tableau & Data Visualization** | [Coursera]| 
+|Day 23|Jan 25, 2021| Continued with **Tableau & Data Visualization** | [Coursera]| 
+|Day 24|Jan 26, 2021| Continued with **Tableau & Data Visualization** | [Coursera]| 
+|Day 25|Jan 27, 2021| Continued with **Tableau & Data Visualization** | [Coursera] :white_check_mark:| 
+|Day 26|Jan 28, 2021| Started with **Python** | [Coursera]| 
+|Day 27|Jan 29, 2021| Continued with **Python** | [Coursera]| 
+|Day 28|Jan 30, 2021| Continued with **Python** | [Coursera]| 
+|Day 29|Jan 31, 2021| Continued with **Python** | [Coursera]| 
+|Day 30|Feb 1, 2021| Continued with **Python** | [Coursera]| 
  
  
  <!--
