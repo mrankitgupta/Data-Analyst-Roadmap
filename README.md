@@ -23,7 +23,7 @@
 
 * <a href="https://www.coursera.org/learn/statistics-for-data-science-python">Statistics</a><a href="https://www.coursera.org/learn/statistics-for-data-science-python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> </a>
 
-<h3 align="left">My Certifications 📜 🎓 ✔️</h3>
+<h2 align="left">My Certifications 📜 🎓 ✔️</h2>
 
 - [Data Visualization with Advanced Excel](https://coursera.org/share/064db4645159df788ad0b31abebf1556)
 
