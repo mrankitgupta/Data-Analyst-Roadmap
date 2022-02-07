@@ -55,29 +55,29 @@
 |------|-----------------|--------------------|---------------------|
 |Day 1|Jan 3, 2021| Learnt Basics of **Advanced Excel** (Functions, Formulas, Charts, Conditional Formatting) | [Coursera](https://coursera.org/share/064db4645159df788ad0b31abebf1556)|\
 |Day 2|Jan 4, 2021| Practiced taking sample data on **Advanced Excel** (Lookups, What-If Tool, Pivot Table, VBS & Macros, Power Pivot & Dashboards) | [Coursera](https://coursera.org/share/064db4645159df788ad0b31abebf1556) :white_check_mark:|
-|Day 3|Jan 5, 2021| Started with **Data Structures** (Arrays, Stack, Queue, Linked List, & Computational Complexity) | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm)| 
-|Day 4|Jan 6, 2021| Continued with **Data Structures** | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm)| 
-|Day 5|Jan 7, 2021| Continued with **Data Structures** | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm) :white_check_mark:|
-|Day 6|Jan 8, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
+|Day 3|Jan 5, 2021| Started with **Data Structures** (Arrays, Stack, Queue, Linked List & their Computational Complexity) | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm)| 
+|Day 4|Jan 6, 2021| Continued with **Data Structures** (Doubly Linked List, Dictionaries, Trees) | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm)| 
+|Day 5|Jan 7, 2021| Completed with **Data Structures** | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm) :white_check_mark:|
+|Day 6|Jan 8, 2021| Started with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
 |Day 7|Jan 9, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
 |Day 8|Jan 10, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
 |Day 9|Jan 11, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
 |Day 10|Jan 12, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
 |Day 11|Jan 13, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial) :white_check_mark:| 
-|Day 12|Jan 14, 2021| Continued with **SQL** | [Coursera]| 
+|Day 12|Jan 14, 2021| Started with **SQL** | [Coursera]| 
 |Day 13|Jan 15, 2021| Continued with **SQL** | [Coursera]| 
 |Day 14|Jan 16, 2021| Continued with **SQL** | [Coursera]|
 |Day 15|Jan 17, 2021| Continued with **SQL** | [Coursera]| 
-|Day 16|Jan 18, 2021| Continued with **SQL** | [Coursera] :white_check_mark:| 
+|Day 16|Jan 18, 2021| Completed with **SQL** | [Coursera] :white_check_mark:| 
 |Day 17|Jan 19, 2021| Started with **NoSQL** | [Coursera]| 
 |Day 18|Jan 20, 2021| Continued with **NoSQL** | [Coursera]| 
 |Day 19|Jan 21, 2021| Continued with **NoSQL** | [Coursera]| 
-|Day 20|Jan 22, 2021| Continued with **NoSQL** | [Coursera] :white_check_mark:| 
+|Day 20|Jan 22, 2021| Completed with **NoSQL** | [Coursera] :white_check_mark:| 
 |Day 21|Jan 23, 2021| Started with **Tableau & Data Visualization** | [Coursera]|
 |Day 22|Jan 24, 2021| Continued with **Tableau & Data Visualization** | [Coursera]| 
 |Day 23|Jan 25, 2021| Continued with **Tableau & Data Visualization** | [Coursera]| 
 |Day 24|Jan 26, 2021| Continued with **Tableau & Data Visualization** | [Coursera]| 
-|Day 25|Jan 27, 2021| Continued with **Tableau & Data Visualization** | [Coursera] :white_check_mark:| 
+|Day 25|Jan 27, 2021| Completed with **Tableau & Data Visualization** | [Coursera] :white_check_mark:| 
 |Day 26|Jan 28, 2021| Started with **Python** | [Coursera]| 
 |Day 27|Jan 29, 2021| Continued with **Python** | [Coursera]| 
 |Day 28|Jan 30, 2021| Continued with **Python** | [Coursera]| 
@@ -104,10 +104,10 @@
 |Day 49|Feb 20, 2021| Continued with **Python Libraries** | [Coursera]|
 |Day 50|Feb 21, 2021| Continued with **Python Libraries** | [Coursera]|
 |Day 51|Feb 22, 2021| Continued with **Python Libraries** | [Coursera]|
-|Day 52|Feb 23, 2021| Continued with **Python Libraries** | [Coursera] :white_check_mark:|
+|Day 52|Feb 23, 2021| Completed with **Python Libraries** | [Coursera] :white_check_mark:|
 |Day 53|Feb 24, 2021| Started with **Statistics** | [Coursera]|
 |Day 54|Feb 25, 2021| Continued with **Statistics** | [Coursera]|
-|Day 55|Feb 26, 2021| Continued with **Statistics** | [Coursera] :white_check_mark:|
+|Day 55|Feb 26, 2021| Completed with **Statistics** | [Coursera] :white_check_mark:|
 |Day 56|Feb 27, 2021| Started with **Project** | [Project]|
 |Day 57|Feb 28, 2021| Continued with **Project** | [Project]|
 |Day 58|Mar 1, 2021| Continued with **Project** | [Project]|
