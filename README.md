@@ -55,7 +55,7 @@
 |------|-----------------|--------------------|---------------------|
 |Day 1|Jan 3, 2021| Learnt Basics of **Advanced Excel** (Functions, Formulas, Charts, Conditional Formatting) | [Coursera](https://coursera.org/share/064db4645159df788ad0b31abebf1556)|\
 |Day 2|Jan 4, 2021| Practiced taking sample data on **Advanced Excel** (Lookups, What-If Tool, Pivot Table, VBS & Macros, Power Pivot & Dashboards) | [Coursera](https://coursera.org/share/064db4645159df788ad0b31abebf1556) :white_check_mark:|
-|Day 3|Jan 5, 2021| Started with **Data Structures** | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm)| 
+|Day 3|Jan 5, 2021| Started with **Data Structures** (Arrays, Stack, Queue, Linked List, & Computational Complexity) | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm)| 
 |Day 4|Jan 6, 2021| Continued with **Data Structures** | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm)| 
 |Day 5|Jan 7, 2021| Continued with **Data Structures** | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm) :white_check_mark:|
 |Day 6|Jan 8, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
