@@ -59,7 +59,7 @@
 |Day 4|Jan 6, 2021| Continued with **Data Structures** (Doubly Linked List, Dictionaries, Trees) | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm)| 
 |Day 5|Jan 7, 2021| Completed with **Data Structures** (Tries, Heap, Sorting, Graph) | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm) :white_check_mark:|
 |Day 6|Jan 8, 2021| Started with **DBMS** (Concepts, Charachteristics & Architectures, File system vs DBMS Database storage structures, Data models, Data Schema) | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
-|Day 7|Jan 9, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
+|Day 7|Jan 9, 2021| Continued with **DBMS** (Entity Relationship Model, Design, Relational Model, Relational Algebra, Functional Dependencies, keys) | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
 |Day 8|Jan 10, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
 |Day 9|Jan 11, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
 |Day 10|Jan 12, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
