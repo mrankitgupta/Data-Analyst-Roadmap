@@ -61,7 +61,7 @@
 |Day 6|Jan 8, 2021| Started with **DBMS** (Concepts, Charachteristics & Architectures, File system vs DBMS Database storage structures, Data models, Data Schema) | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
 |Day 7|Jan 9, 2021| Continued with **DBMS** (Entity Relationship Model, Design, Relational Model, Relational Algebra, Functional Dependencies, keys) | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
 |Day 8|Jan 10, 2021| Continued with **DBMS** (Normalisation, types, purpose, keys, Schema, Transactional mngt. and Concurrency Control, Acid property, Deadlock) | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
-|Day 9|Jan 11, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
+|Day 9|Jan 11, 2021| Continued with **DBMS** (Indexing, B and B+ trees, File Organization, Joins, Hashing) | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
 |Day 10|Jan 12, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
 |Day 11|Jan 13, 2021| Continued with **DBMS** | [Java Point](https://www.javatpoint.com/dbms-tutorial) :white_check_mark:| 
 |Day 12|Jan 14, 2021| Started with **SQL** | [Coursera]| 
