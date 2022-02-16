@@ -65,8 +65,8 @@
 |Day 10|Jan 12, 2021| Continued with **DBMS** (Backup & recovery techniques, Database security & Authorization, Query processing & evaluation) | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
 |Day 11|Jan 13, 2021| Completed with **DBMS** (Data Warehousing, Schemas - (Star schema, Snowflake schema), OLAP, OLTP, Data Mining) | [Java Point](https://www.javatpoint.com/dbms-tutorial) :white_check_mark:| 
 |Day 12|Jan 14, 2021| Started with **SQL** (RDBMS, SQL vs NoSQL, Hbase vs Rdbms, Basics, Constraints, Syntax- DDL, DML) | [Coursera]| 
-|Day 13|Jan 15, 2021| Continued with **SQL** | [Coursera]| 
-|Day 14|Jan 16, 2021| Continued with **SQL** | [Coursera]|
+|Day 13|Jan 15, 2021| Continued with **SQL** (Syntax - DQL, DCL & TCL, Operators, Database, Table, Select) | [Coursera]| 
+|Day 14|Jan 16, 2021| Continued with **SQL** (Clauses, Order by, Insert, Update, Delete, Join, Keys, Queries, Functions) | [Coursera]|
 |Day 15|Jan 17, 2021| Continued with **SQL** | [Coursera]| 
 |Day 16|Jan 18, 2021| Completed with **SQL** | [Coursera] :white_check_mark:| 
 |Day 17|Jan 19, 2021| Started with **NoSQL** | [Coursera]| 
