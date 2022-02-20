@@ -1,6 +1,6 @@
 <h1 align="center">My #66DaysOfData Journey into Data Analytics 📊</h1>
 
-**I am sharing my journey of 66DaysofData into Data Analytics by participating in Ken Jee's #66daysofdata challenge** 
+**I am sharing my Journey of 66DaysofData into Data Analytics by participating in Ken Jee's #66daysofdata challenge** 
 
 ## Technologies used ⚙️
 
