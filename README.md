@@ -74,7 +74,7 @@
 |Day 19|Jan 21, 2021| Continued with **NoSQL** | [Coursera]| 
 |Day 20|Jan 22, 2021| Completed with **NoSQL** | [Coursera] :white_check_mark:| 
 |Day 21|Jan 23, 2021| Started with **Tableau & Data Visualization** (Data Cleaning, Blending, Data Joining, Data Blending, Data Sorting, Data Aggregation) | [Coursera]|
-|Day 22|Jan 24, 2021| Continued with **Tableau & Data Visualization** | [Coursera]| 
+|Day 22|Jan 24, 2021| Continued with **Tableau & Data Visualization** (Tableau Calculations - Operators, Functions, Numeric Calculations, String Calculations, Date Calculations, Table Calculations, LOD Expressions) | [Coursera]| 
 |Day 23|Jan 25, 2021| Continued with **Tableau & Data Visualization** | [Coursera]| 
 |Day 24|Jan 26, 2021| Continued with **Tableau & Data Visualization** | [Coursera]| 
 |Day 25|Jan 27, 2021| Completed with **Tableau & Data Visualization** | [Coursera] :white_check_mark:| 
