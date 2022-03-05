@@ -1,6 +1,6 @@
 <h1 align="center">My #66DaysOfData Journey into Data Analytics 📊</h1>
 
-**I am sharing my Journey of 66DaysofData into Data Analytics by participating in Ken Jee's #66daysofdata challenge** 
+**I am sharing my journey of 66DaysofData into Data Analytics by participating in Ken Jee's #66daysofdata challenge** 
 
 ## Technologies used ⚙️
 
@@ -78,7 +78,7 @@
 |Day 23|Jan 25, 2021| Continued with **Tableau & Data Visualization** (Filter Data, Filter Operations, Extract Filters, Quick Filters, Context Filters, Condition Filters, Data Source Filters, Top Filters, Sort Data, Build Groups, Build Hierarchy, Build Sets) | [Coursera]| 
 |Day 24|Jan 26, 2021| Continued with **Tableau & Data Visualization** (Charts & Graphs - Bar Chart, Line Chart, Pie Chart, Bubble Chart, Bump Chart, Gantt Chart, Crosstab Chart, Motion Chart, Waterfall Chart, Bullet Chart, Area Chart, Pareto Chart, Dual Axis Chart, Box Plot, Heat Map, Tree Map, Scatter Plot, Histogram) | [Coursera]| 
 |Day 25|Jan 27, 2021| Completed with **Tableau & Data Visualization** (Dashboard, Formatting, Forecasting, Trend Lines, Advanced Mapping - Point to point maps, Calculation distances between two points on a map, Dual axis map) | [Coursera] :white_check_mark:| 
-|Day 26|Jan 28, 2021| Started with **Python** | [Coursera]| 
+|Day 26|Jan 28, 2021| Started with **Python** (Python basics - Features Applications, Python 2 vs Python 3, Libraries uses, Interpreter Prompt, Script mode programming) | [Coursera]| 
 |Day 27|Jan 29, 2021| Continued with **Python** | [Coursera]| 
 |Day 28|Jan 30, 2021| Continued with **Python** | [Coursera]| 
 |Day 29|Jan 31, 2021| Continued with **Python** | [Coursera]| 
