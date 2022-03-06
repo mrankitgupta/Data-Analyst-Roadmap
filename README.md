@@ -57,15 +57,15 @@
 |Day 2|Jan 4, 2021| Practiced taking sample data on **Advanced Excel** (Lookups, What-If Tool, Pivot Table, VBS & Macros, Power Pivot & Dashboards) | [Coursera](https://coursera.org/share/064db4645159df788ad0b31abebf1556) :white_check_mark:|
 |Day 3|Jan 5, 2021| Started with **Data Structures** (Arrays, Stack, Queue, Linked List & their Computational Complexity) | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm)| 
 |Day 4|Jan 6, 2021| Continued with **Data Structures** (Doubly Linked List, Dictionaries, Trees) | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm)| 
-|Day 5|Jan 7, 2021| Completed with **Data Structures** (Tries, Heap, Sorting, Graph) | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm) :white_check_mark:|
+|Day 5|Jan 7, 2021| Completed with **Data Structures** (Tries, Heap, Sorting, Graph) | [Youtube](https://www.youtube.com/watch?v=zg9ih6SVACc) :white_check_mark:|
 |Day 6|Jan 8, 2021| Started with **DBMS** (Concepts, Charachteristics & Architectures, File system vs DBMS Database storage structures, Data models, Data Schema) | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
-|Day 7|Jan 9, 2021| Continued with **DBMS** (Entity Relationship Model, Design, Relational Model, Relational Algebra, Functional Dependencies, keys) | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
+|Day 7|Jan 9, 2021| Continued with **DBMS** (Entity Relationship Model, Design, Relational Model, Relational Algebra, Functional Dependencies, keys) | [Youtube](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)| 
 |Day 8|Jan 10, 2021| Continued with **DBMS** (Normalisation, types, purpose, keys, Schema, Transactional mngt. and Concurrency Control, Acid property, Deadlock) | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
 |Day 9|Jan 11, 2021| Continued with **DBMS** (Indexing, B and B+ trees, File Organization, Joins, Hashing) | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
 |Day 10|Jan 12, 2021| Continued with **DBMS** (Backup & recovery techniques, Database security & Authorization, Query processing & evaluation) | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
 |Day 11|Jan 13, 2021| Completed with **DBMS** (Data Warehousing, Schemas - (Star schema, Snowflake schema), OLAP, OLTP, Data Mining) | [Java Point](https://www.javatpoint.com/dbms-tutorial) :white_check_mark:| 
-|Day 12|Jan 14, 2021| Started with **SQL** (RDBMS, SQL vs NoSQL, Hbase vs Rdbms, Basics, Constraints, Syntax- DDL, DML) | [Coursera]| 
-|Day 13|Jan 15, 2021| Continued with **SQL** (Syntax - DQL, DCL & TCL, Operators, Database, Table, Select) | [Coursera]| 
+|Day 12|Jan 14, 2021| Started with **SQL** (RDBMS, SQL vs NoSQL, Hbase vs Rdbms, Basics, Constraints, Syntax- DDL, DML) | [Java Point](https://www.javatpoint.com/sql-tutorial)| 
+|Day 13|Jan 15, 2021| Continued with **SQL** (Syntax - DQL, DCL & TCL, Operators, Database, Table, Select) | [Youtube](https://www.youtube.com/watch?v=BPHAr4QGGVE)| 
 |Day 14|Jan 16, 2021| Continued with **SQL** (Clauses, Order by, Insert, Update, Delete, Join, Keys, Queries, Functions) | [Coursera]|
 |Day 15|Jan 17, 2021| Continued with **SQL** (SQL-Injection, Data Integrity, Constraints, Flow control, T-SQL) | [Coursera]| 
 |Day 16|Jan 18, 2021| Completed with **SQL** (Backup & Restore, Pivot table, Alias Syntax, Wildcards, Truncate table) | [Coursera] :white_check_mark:| 
