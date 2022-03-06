@@ -35,7 +35,9 @@
 
 ## Projects 👨‍💻 🛰️
 
-* 
+<code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑
+
+<code>[Python Libraries](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️
  
 ## For any queries/doubts 🔗
 
