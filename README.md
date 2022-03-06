@@ -68,20 +68,20 @@
 |Day 13|Jan 15, 2021| Continued with **SQL** (Syntax - DQL, DCL & TCL, Operators, Database, Table, Select) | [YouTube](https://www.youtube.com/watch?v=BPHAr4QGGVE)| 
 |Day 14|Jan 16, 2021| Continued with **SQL** (Clauses, Order by, Insert, Update, Delete, Join, Keys, Queries, Functions) | [Coursera]|
 |Day 15|Jan 17, 2021| Continued with **SQL** (SQL-Injection, Data Integrity, Constraints, Flow control, T-SQL) | [Coursera]| 
-|Day 16|Jan 18, 2021| Completed with **SQL** (Backup & Restore, Pivot table, Alias Syntax, Wildcards, Truncate table) | [Coursera] :white_check_mark:| 
+|Day 16|Jan 18, 2021| Completed with **SQL** (Backup & Restore, Pivot table, Alias Syntax, Wildcards, Truncate table) | [Project] :white_check_mark:| 
 |Day 17|Jan 19, 2021| Started with **NoSQL** | [JavaTpoint](https://www.javatpoint.com/mongodb-tutorial)| 
 |Day 18|Jan 20, 2021| Continued with **MongoDB** | [YouTube](https://www.youtube.com/watch?v=oSIv-E60NiU)| 
 |Day 19|Jan 21, 2021| Continued with **MongoDB** | [Coursera]| 
-|Day 20|Jan 22, 2021| Completed with **MongoDB** | [Coursera] :white_check_mark:| 
+|Day 20|Jan 22, 2021| Completed with **MongoDB** | [Project] :white_check_mark:| 
 |Day 21|Jan 23, 2021| Started with **Tableau & Data Visualization** (Data Cleaning, Blending, Data Joining, Data Blending, Data Sorting, Data Aggregation) | [JavaTpoint](https://www.javatpoint.com/tableau)|
 |Day 22|Jan 24, 2021| Continued with **Tableau & Data Visualization** (Tableau Calculations - Operators, Functions, Numeric Calculations, String Calculations, Date Calculations, Table Calculations, LOD Expressions) | [YouTube](https://www.youtube.com/watch?v=aHaOIvR00So)| 
 |Day 23|Jan 25, 2021| Continued with **Tableau & Data Visualization** (Filter Data, Filter Operations, Extract Filters, Quick Filters, Context Filters, Condition Filters, Data Source Filters, Top Filters, Sort Data, Build Groups, Build Hierarchy, Build Sets) | [Coursera]| 
 |Day 24|Jan 26, 2021| Continued with **Tableau & Data Visualization** (Charts & Graphs - Bar Chart, Line Chart, Pie Chart, Bubble Chart, Bump Chart, Gantt Chart, Crosstab Chart, Motion Chart, Waterfall Chart, Bullet Chart, Area Chart, Pareto Chart, Dual Axis Chart, Box Plot, Heat Map, Tree Map, Scatter Plot, Histogram) | [Coursera]| 
-|Day 25|Jan 27, 2021| Completed with **Tableau & Data Visualization** (Dashboard, Formatting, Forecasting, Trend Lines, Advanced Mapping - Point to point maps, Calculation distances between two points on a map, Dual axis map) | [Coursera] :white_check_mark:| 
+|Day 25|Jan 27, 2021| Completed with **Tableau & Data Visualization** (Dashboard, Formatting, Forecasting, Trend Lines, Advanced Mapping - Point to point maps, Calculation distances between two points on a map, Dual axis map) | [Project] :white_check_mark:| 
 |Day 26|Jan 28, 2021| Started with **Python** (Python basics - Features Applications, Python 2 vs Python 3, Libraries uses) | [JavaTpoint](https://www.javatpoint.com/python-tutorial)| 
 |Day 27|Jan 29, 2021| Continued with **Python** (Interpreter Prompt, Script mode programming, Features of an IDE, Compiler vs Interpreter) | [Geeks for Geeks](https://www.geeksforgeeks.org/python-programming-language/)| 
 |Day 28|Jan 30, 2021| Continued with **Python** | [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk)| 
-|Day 29|Jan 31, 2021| Continued with **Python** | [Coursera]| 
+|Day 29|Jan 31, 2021| Continued with **Python** | [Python Lessons for Practice](https://github.com/mrankitgupta/PythonLessons)| 
 |Day 30|Feb 1, 2021| Continued with **Python** | [Coursera]| 
 |Day 31|Feb 2, 2021| Continued with **Python** | [Coursera]| 
 |Day 32|Feb 3, 2021| Continued with **Python** | [Coursera]| 
@@ -94,7 +94,7 @@
 |Day 39|Feb 10, 2021| Continued with **Python** | [Coursera]|
 |Day 40|Feb 11, 2021| Continued with **Python** | [Coursera]|
 |Day 41|Feb 12, 2021| Continued with **Python** | [Coursera]|
-|Day 42|Feb 13, 2021| Continued with **Python** | [Coursera] :white_check_mark:|
+|Day 42|Feb 13, 2021| Continued with **Python** | [Project] :white_check_mark:|
 |Day 43|Feb 14, 2021| Started with **Python Libraries** | [JavaTpoint]|
 |Day 44|Feb 15, 2021| Continued with **Python Libraries** | [YouTube]|
 |Day 45|Feb 16, 2021| Continued with **Python Libraries** | [Coursera]|
@@ -126,6 +126,8 @@ So happy to have followed the journey through for the past 66 days.
 It has really been a great learning experience and I have learnt a lot.
 
 More importantly, I have developed the habit of learning Data Science every day no matter how small.
+
+### Liked my Contributions:question:[Follow Me](https://github.com/mrankitgupta/):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
 ## For any queries/doubts 🔗
 
