@@ -95,9 +95,9 @@
 |Day 40|Feb 11, 2021| Continued with **Python** | [Coursera]|
 |Day 41|Feb 12, 2021| Continued with **Python** | [Coursera]|
 |Day 42|Feb 13, 2021| Continued with **Python** | [Project] :white_check_mark:|
-|Day 43|Feb 14, 2021| Started with **Python Libraries** | [JavaTpoint]|
-|Day 44|Feb 15, 2021| Continued with **Python Libraries** | [YouTube]|
-|Day 45|Feb 16, 2021| Continued with **Python Libraries** | [Coursera]|
+|Day 43|Feb 14, 2021| Started with **Python Libraries - Numpy, Pandas & Matplotlib** | [Python Libraries](https://github.com/mrankitgupta/PythonLibraries)|
+|Day 44|Feb 15, 2021| Continued with **Python Libraries** | [JavaTpoint]|
+|Day 45|Feb 16, 2021| Continued with **Python Libraries** | [YouTube]|
 |Day 46|Feb 17, 2021| Continued with **Python Libraries** | [Coursera]|
 |Day 47|Feb 18, 2021| Continued with **Python Libraries** | [Coursera]|
 |Day 48|Feb 19, 2021| Continued with **Python Libraries** | [Coursera]|
