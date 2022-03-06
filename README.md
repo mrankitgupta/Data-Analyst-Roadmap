@@ -108,7 +108,7 @@
 |Day 53|Feb 24, 2021| Started with **Statistics** | [Coursera]|
 |Day 54|Feb 25, 2021| Continued with **Statistics** | [Coursera]|
 |Day 55|Feb 26, 2021| Completed with **Statistics** | [Coursera] :white_check_mark:|
-|Day 56|Feb 27, 2021| **Practice (SQL, Python, Data Structures, Databases)** | [HackerRank](https://www.hackerrank.com/mrankitgupta) :white_check_mark: |
+|Day 56|Feb 27, 2021| **Daily Practice while learning** (SQL, Python, Data Structures, Databases) | [HackerRank](https://www.hackerrank.com/mrankitgupta) :white_check_mark: |
 |Day 57|Feb 28, 2021| Started with **Project** | [Project]|
 |Day 58|Mar 1, 2021| Continued with **Project** | [Project]|
 |Day 59|Mar 2, 2021| Continued with **Project** | [Project]|
