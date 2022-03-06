@@ -57,30 +57,30 @@
 |Day 2|Jan 4, 2021| Practiced taking sample data on **Advanced Excel** (Lookups, What-If Tool, Pivot Table, VBS & Macros, Power Pivot & Dashboards) | [Coursera](https://coursera.org/share/064db4645159df788ad0b31abebf1556) :white_check_mark:|
 |Day 3|Jan 5, 2021| Started with **Data Structures** (Arrays, Stack, Queue, Linked List & their Computational Complexity) | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm)| 
 |Day 4|Jan 6, 2021| Continued with **Data Structures** (Doubly Linked List, Dictionaries, Trees) | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm)| 
-|Day 5|Jan 7, 2021| Completed with **Data Structures** (Tries, Heap, Sorting, Graph) | [Youtube](https://www.youtube.com/watch?v=zg9ih6SVACc) :white_check_mark:|
-|Day 6|Jan 8, 2021| Started with **DBMS** (Concepts, Charachteristics & Architectures, File system vs DBMS Database storage structures, Data models, Data Schema) | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
-|Day 7|Jan 9, 2021| Continued with **DBMS** (Entity Relationship Model, Design, Relational Model, Relational Algebra, Functional Dependencies, keys) | [Youtube](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)| 
-|Day 8|Jan 10, 2021| Continued with **DBMS** (Normalisation, types, purpose, keys, Schema, Transactional mngt. and Concurrency Control, Acid property, Deadlock) | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
-|Day 9|Jan 11, 2021| Continued with **DBMS** (Indexing, B and B+ trees, File Organization, Joins, Hashing) | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
-|Day 10|Jan 12, 2021| Continued with **DBMS** (Backup & recovery techniques, Database security & Authorization, Query processing & evaluation) | [Java Point](https://www.javatpoint.com/dbms-tutorial)| 
-|Day 11|Jan 13, 2021| Completed with **DBMS** (Data Warehousing, Schemas - (Star schema, Snowflake schema), OLAP, OLTP, Data Mining) | [Java Point](https://www.javatpoint.com/dbms-tutorial) :white_check_mark:| 
-|Day 12|Jan 14, 2021| Started with **SQL** (RDBMS, SQL vs NoSQL, Hbase vs Rdbms, Basics, Constraints, Syntax- DDL, DML) | [Java Point](https://www.javatpoint.com/sql-tutorial)| 
-|Day 13|Jan 15, 2021| Continued with **SQL** (Syntax - DQL, DCL & TCL, Operators, Database, Table, Select) | [Youtube](https://www.youtube.com/watch?v=BPHAr4QGGVE)| 
+|Day 5|Jan 7, 2021| Completed with **Data Structures** (Tries, Heap, Sorting, Graph) | [YouTube](https://www.youtube.com/watch?v=zg9ih6SVACc) :white_check_mark:|
+|Day 6|Jan 8, 2021| Started with **DBMS** (Concepts, Charachteristics & Architectures, File system vs DBMS Database storage structures, Data models, Data Schema) | [JavaTpoint](https://www.javatpoint.com/dbms-tutorial)| 
+|Day 7|Jan 9, 2021| Continued with **DBMS** (Entity Relationship Model, Design, Relational Model, Relational Algebra, Functional Dependencies, keys) | [YouTube](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)| 
+|Day 8|Jan 10, 2021| Continued with **DBMS** (Normalisation, types, purpose, keys, Schema, Transactional mngt. and Concurrency Control, Acid property, Deadlock) | [JavaTpoint](https://www.javatpoint.com/dbms-tutorial)| 
+|Day 9|Jan 11, 2021| Continued with **DBMS** (Indexing, B and B+ trees, File Organization, Joins, Hashing) | [JavaTpoint](https://www.javatpoint.com/dbms-tutorial)| 
+|Day 10|Jan 12, 2021| Continued with **DBMS** (Backup & recovery techniques, Database security & Authorization, Query processing & evaluation) | [JavaTpoint](https://www.javatpoint.com/dbms-tutorial)| 
+|Day 11|Jan 13, 2021| Completed with **DBMS** (Data Warehousing, Schemas - (Star schema, Snowflake schema), OLAP, OLTP, Data Mining) | [JavaTpoint](https://www.javatpoint.com/dbms-tutorial) :white_check_mark:| 
+|Day 12|Jan 14, 2021| Started with **SQL** (RDBMS, SQL vs NoSQL, Hbase vs Rdbms, Basics, Constraints, Syntax- DDL, DML) | [JavaTpoint](https://www.javatpoint.com/sql-tutorial)| 
+|Day 13|Jan 15, 2021| Continued with **SQL** (Syntax - DQL, DCL & TCL, Operators, Database, Table, Select) | [YouTube](https://www.youtube.com/watch?v=BPHAr4QGGVE)| 
 |Day 14|Jan 16, 2021| Continued with **SQL** (Clauses, Order by, Insert, Update, Delete, Join, Keys, Queries, Functions) | [Coursera]|
 |Day 15|Jan 17, 2021| Continued with **SQL** (SQL-Injection, Data Integrity, Constraints, Flow control, T-SQL) | [Coursera]| 
 |Day 16|Jan 18, 2021| Completed with **SQL** (Backup & Restore, Pivot table, Alias Syntax, Wildcards, Truncate table) | [Coursera] :white_check_mark:| 
-|Day 17|Jan 19, 2021| Started with **NoSQL** | [Coursera]| 
-|Day 18|Jan 20, 2021| Continued with **NoSQL** | [Coursera]| 
-|Day 19|Jan 21, 2021| Continued with **NoSQL** | [Coursera]| 
-|Day 20|Jan 22, 2021| Completed with **NoSQL** | [Coursera] :white_check_mark:| 
-|Day 21|Jan 23, 2021| Started with **Tableau & Data Visualization** (Data Cleaning, Blending, Data Joining, Data Blending, Data Sorting, Data Aggregation) | [Coursera]|
-|Day 22|Jan 24, 2021| Continued with **Tableau & Data Visualization** (Tableau Calculations - Operators, Functions, Numeric Calculations, String Calculations, Date Calculations, Table Calculations, LOD Expressions) | [Coursera]| 
+|Day 17|Jan 19, 2021| Started with **NoSQL** | [JavaTpoint](https://www.javatpoint.com/mongodb-tutorial)| 
+|Day 18|Jan 20, 2021| Continued with **MongoDB** | [YouTube](https://www.youtube.com/watch?v=oSIv-E60NiU)| 
+|Day 19|Jan 21, 2021| Continued with **MongoDB** | [Coursera]| 
+|Day 20|Jan 22, 2021| Completed with **MongoDB** | [Coursera] :white_check_mark:| 
+|Day 21|Jan 23, 2021| Started with **Tableau & Data Visualization** (Data Cleaning, Blending, Data Joining, Data Blending, Data Sorting, Data Aggregation) | [JavaTpoint](https://www.javatpoint.com/tableau)|
+|Day 22|Jan 24, 2021| Continued with **Tableau & Data Visualization** (Tableau Calculations - Operators, Functions, Numeric Calculations, String Calculations, Date Calculations, Table Calculations, LOD Expressions) | [YouTube](https://www.youtube.com/watch?v=aHaOIvR00So)| 
 |Day 23|Jan 25, 2021| Continued with **Tableau & Data Visualization** (Filter Data, Filter Operations, Extract Filters, Quick Filters, Context Filters, Condition Filters, Data Source Filters, Top Filters, Sort Data, Build Groups, Build Hierarchy, Build Sets) | [Coursera]| 
 |Day 24|Jan 26, 2021| Continued with **Tableau & Data Visualization** (Charts & Graphs - Bar Chart, Line Chart, Pie Chart, Bubble Chart, Bump Chart, Gantt Chart, Crosstab Chart, Motion Chart, Waterfall Chart, Bullet Chart, Area Chart, Pareto Chart, Dual Axis Chart, Box Plot, Heat Map, Tree Map, Scatter Plot, Histogram) | [Coursera]| 
 |Day 25|Jan 27, 2021| Completed with **Tableau & Data Visualization** (Dashboard, Formatting, Forecasting, Trend Lines, Advanced Mapping - Point to point maps, Calculation distances between two points on a map, Dual axis map) | [Coursera] :white_check_mark:| 
-|Day 26|Jan 28, 2021| Started with **Python** (Python basics - Features Applications, Python 2 vs Python 3, Libraries uses) | [Coursera]| 
-|Day 27|Jan 29, 2021| Continued with **Python** (Interpreter Prompt, Script mode programming, Features of an IDE, Compiler vs Interpreter) | [Coursera]| 
-|Day 28|Jan 30, 2021| Continued with **Python** | [Coursera]| 
+|Day 26|Jan 28, 2021| Started with **Python** (Python basics - Features Applications, Python 2 vs Python 3, Libraries uses) | [JavaTpoint](https://www.javatpoint.com/python-tutorial)| 
+|Day 27|Jan 29, 2021| Continued with **Python** (Interpreter Prompt, Script mode programming, Features of an IDE, Compiler vs Interpreter) | [Geeks for Geeks](https://www.geeksforgeeks.org/python-programming-language/)| 
+|Day 28|Jan 30, 2021| Continued with **Python** | [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk)| 
 |Day 29|Jan 31, 2021| Continued with **Python** | [Coursera]| 
 |Day 30|Feb 1, 2021| Continued with **Python** | [Coursera]| 
 |Day 31|Feb 2, 2021| Continued with **Python** | [Coursera]| 
@@ -95,8 +95,8 @@
 |Day 40|Feb 11, 2021| Continued with **Python** | [Coursera]|
 |Day 41|Feb 12, 2021| Continued with **Python** | [Coursera]|
 |Day 42|Feb 13, 2021| Continued with **Python** | [Coursera] :white_check_mark:|
-|Day 43|Feb 14, 2021| Started with **Python Libraries** | [Coursera]|
-|Day 44|Feb 15, 2021| Continued with **Python Libraries** | [Coursera]|
+|Day 43|Feb 14, 2021| Started with **Python Libraries** | [JavaTpoint]|
+|Day 44|Feb 15, 2021| Continued with **Python Libraries** | [YouTube]|
 |Day 45|Feb 16, 2021| Continued with **Python Libraries** | [Coursera]|
 |Day 46|Feb 17, 2021| Continued with **Python Libraries** | [Coursera]|
 |Day 47|Feb 18, 2021| Continued with **Python Libraries** | [Coursera]|
