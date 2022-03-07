@@ -81,8 +81,8 @@
 |Day 24|Jan 26, 2021| Continued with **Tableau & Data Visualization** (Charts & Graphs - Bar Chart, Line Chart, Pie Chart, Bubble Chart, Bump Chart, Gantt Chart, Crosstab Chart, Motion Chart, Waterfall Chart, Bullet Chart, Area Chart, Pareto Chart, Dual Axis Chart, Box Plot, Heat Map, Tree Map, Scatter Plot, Histogram) | [Coursera]| 
 |Day 25|Jan 27, 2021| Completed with **Tableau & Data Visualization** (Dashboard, Formatting, Forecasting, Trend Lines, Advanced Mapping - Point to point maps, Calculation distances between two points on a map, Dual axis map) | [Project] :white_check_mark:| 
 |Day 26|Jan 28, 2021| Started with **Python** (Python basics - Features Applications, Python 2 vs Python 3, Libraries uses) | [JavaTpoint](https://www.javatpoint.com/python-tutorial)| 
-|Day 27|Jan 29, 2021| Continued with **Python** (Interpreter Prompt, Script mode programming, Features of an IDE, Compiler vs Interpreter) | [Geeks for Geeks](https://www.geeksforgeeks.org/python-programming-language/)| 
-|Day 28|Jan 30, 2021| Continued with **Python** | [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk)| 
+|Day 27|Jan 29, 2021| Continued with **Python** (Interpreter Prompt, Script mode programming, IDEs, Features of an IDE, Compiler vs Interpreter) | [Geeks for Geeks](https://www.geeksforgeeks.org/python-programming-language/)| 
+|Day 28|Jan 30, 2021| Continued with **Python** (Pycharm - Featues, Important tools, Useful Plugins) | [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk)| 
 |Day 29|Jan 31, 2021| Continued with **Python** | [Python Lessons for Practice](https://github.com/mrankitgupta/PythonLessons)| 
 |Day 30|Feb 1, 2021| Continued with **Python** | [Coursera]| 
 |Day 31|Feb 2, 2021| Continued with **Python** | [Coursera]| 
