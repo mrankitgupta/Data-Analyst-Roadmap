@@ -83,8 +83,8 @@
 |Day 26|Jan 28, 2021| Started with **Python** (Python basics - Features Applications, Python 2 vs Python 3, Libraries uses) | [JavaTpoint](https://www.javatpoint.com/python-tutorial)| 
 |Day 27|Jan 29, 2021| Continued with **Python** (Interpreter Prompt, Script mode programming, IDEs, Features of an IDE, Compiler vs Interpreter) | [Geeks for Geeks](https://www.geeksforgeeks.org/python-programming-language/)| 
 |Day 28|Jan 30, 2021| Continued with **Python** (Pycharm - Featues, Important tools, Useful Plugins) | [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk)| 
-|Day 29|Jan 31, 2021| Continued with **Python** (Modules, Comments, Pip, Docstring) | [Python Lessons for Practice](https://github.com/mrankitgupta/PythonLessons)| 
-|Day 30|Feb 1, 2021| Continued with **Python** | [Coursera]| 
+|Day 29|Jan 31, 2021| Continued with **Python** (Modules, Comments, Pip, Docstrings) | [Python Lessons for Practice](https://github.com/mrankitgupta/PythonLessons)| 
+|Day 30|Feb 1, 2021| Continued with **Python** (Python Indentation, Packages in Python, Modules vs Packages) | [Coursera]| 
 |Day 31|Feb 2, 2021| Continued with **Python** | [Coursera]| 
 |Day 32|Feb 3, 2021| Continued with **Python** | [Coursera]| 
 |Day 33|Feb 4, 2021| Continued with **Python** | [Coursera]| 
