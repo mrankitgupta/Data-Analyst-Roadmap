@@ -86,7 +86,7 @@
 |Day 29|Jan 31, 2021| Continued with **Python** (Modules, Comments, Pip, Docstrings) | [Python Lessons for Practice](https://github.com/mrankitgupta/PythonLessons)| 
 |Day 30|Feb 1, 2021| Continued with **Python** (Python Indentation, Packages in Python, Modules vs Packages) | [Coursera]| 
 |Day 31|Feb 2, 2021| Continued with **Python** (Variables, Declaring & Assigning Values, Object references, Object identity, Variable names, Multiple Assignment, Variable Types) | [Coursera]| 
-|Day 32|Feb 3, 2021| Continued with **Python** | [Coursera]| 
+|Day 32|Feb 3, 2021| Continued with **Python** (Fundamentals of Python - Tokens, Keywords, Literals, Operators, Identifiers & Comments) | [Coursera]| 
 |Day 33|Feb 4, 2021| Continued with **Python** | [Coursera]| 
 |Day 34|Feb 5, 2021| Continued with **Python** | [Coursera]| 
 |Day 35|Feb 6, 2021| Continued with **Python** | [Coursera]| 
