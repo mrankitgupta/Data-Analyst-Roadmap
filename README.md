@@ -134,3 +134,4 @@ More importantly, I have developed the habit of learning Data Science every day 
 ## For any queries/doubts 🔗
 
 ### [Ankit Gupta](https://ankitgupta.bio.link/)
+<p align="left"> <a href="https://twitter.com/Mr_AnkitGupta01/" target="blank"><img src="https://img.shields.io/twitter/follow/Mr_AnkitGupta01?logo=twitter&style=for-the-badge" alt="Mr_AnkitGupta01" /></a> </p>
