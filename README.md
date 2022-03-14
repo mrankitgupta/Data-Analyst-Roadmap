@@ -39,7 +39,7 @@
 
 <code>[Python Libraries](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️
  
-## For any queries/doubts 🔗
+## You can reach me  👇 
 
 ### [Ankit Gupta](https://ankitgupta.bio.link/)
 
