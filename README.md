@@ -90,8 +90,8 @@
 |Day 33|Feb 4, 2021| Continued with **Python** (Data Types - Numbers, Sequence Type, Dictionary, Set, Type Conversion) | [Coursera]| 
 |Day 34|Feb 5, 2021| Continued with **Python** (Collection Module - String, List & Tuples) | [Coursera]| 
 |Day 35|Feb 6, 2021| Continued with **Python** (Collection Module - Sets, Dictionary & Different containers provided by collection module) | [Coursera]| 
-|Day 36|Feb 7, 2021| Continued with **Python** | [Coursera]|
-|Day 37|Feb 8, 2021| Continued with **Python** | [Coursera]|
+|Day 36|Feb 7, 2021| Continued with **Python** (Control Flows - Indentation, If-Else & ELIF Statements) | [Coursera]|
+|Day 37|Feb 8, 2021| Continued with **Python** (Control Flows - For, While & Nested Loops, Controlstatements & Patterns) | [Coursera]|
 |Day 38|Feb 9, 2021| Continued with **Python** | [Coursera]|
 |Day 39|Feb 10, 2021| Continued with **Python** | [Coursera]|
 |Day 40|Feb 11, 2021| Continued with **Python** | [Coursera]|
