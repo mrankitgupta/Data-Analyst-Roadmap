@@ -92,20 +92,20 @@
 |Day 35|Feb 6, 2021| Continued with **Python** (Collection Module - Sets, Dictionary & Different containers provided by collection module) | [Coursera]| 
 |Day 36|Feb 7, 2021| Continued with **Python** (Control Flows - Indentation, If-Else & ELIF Statements) | [Coursera]|
 |Day 37|Feb 8, 2021| Continued with **Python** (Control Flows - For, While & Nested Loops, Controlstatements & Patterns) | [Coursera]|
-|Day 38|Feb 9, 2021| Continued with **Python** | [Coursera]|
-|Day 39|Feb 10, 2021| Continued with **Python** | [Coursera]|
-|Day 40|Feb 11, 2021| Continued with **Python** | [Coursera]|
-|Day 41|Feb 12, 2021| Continued with **Python** | [Coursera]|
-|Day 42|Feb 13, 2021| Continued with **Python** | [Project] :white_check_mark:|
-|Day 43|Feb 14, 2021| Started with **Python Libraries - Numpy, Pandas & Matplotlib** | [Python Libraries](https://github.com/mrankitgupta/PythonLibraries)|
-|Day 44|Feb 15, 2021| Continued with **Python Libraries** | [JavaTpoint]|
-|Day 45|Feb 16, 2021| Continued with **Python Libraries** | [YouTube]|
-|Day 46|Feb 17, 2021| Continued with **Python Libraries** | [Coursera]|
-|Day 47|Feb 18, 2021| Continued with **Python Libraries** | [Coursera]|
-|Day 48|Feb 19, 2021| Continued with **Python Libraries** | [Coursera]|
-|Day 49|Feb 20, 2021| Continued with **Python Libraries** | [Coursera]|
-|Day 50|Feb 21, 2021| Continued with **Python Libraries** | [Coursera]|
-|Day 51|Feb 22, 2021| Continued with **Python Libraries** | [Coursera]|
+|Day 38|Feb 9, 2021| Continued with **Python** (Functions - Types of Functions, Arguments & it's Types, Scope of Variables) | [Coursera]|
+|Day 39|Feb 10, 2021| Continued with **Python** (Functions - Built-in Functions) | [Coursera]|
+|Day 40|Feb 11, 2021| Continued with **Python** (Functions - Lambda Functions, Decorators, Generators) | [Coursera]|
+|Day 41|Feb 12, 2021| Continued with **Python** (Arrays, Hash Tables & Hash Map) | [Coursera]|
+|Day 42|Feb 12, 2021| Continued with **Python**  | [Coursera]|
+|Day 43|Feb 12, 2021| Continued with **Python** | [Coursera]|
+|Day 44|Feb 13, 2021| Continued with **Python** | [Project] :white_check_mark:|
+|Day 45|Feb 14, 2021| Started with **Python Libraries - Numpy, Pandas & Matplotlib** | [Python Libraries](https://github.com/mrankitgupta/PythonLibraries)|
+|Day 46|Feb 15, 2021| Continued with **Python Libraries** | [JavaTpoint]|
+|Day 47|Feb 16, 2021| Continued with **Python Libraries** | [YouTube]|
+|Day 48|Feb 17, 2021| Continued with **Python Libraries** | [Coursera]|
+|Day 49|Feb 18, 2021| Continued with **Python Libraries** | [Coursera]|
+|Day 50|Feb 19, 2021| Continued with **Python Libraries** | [Coursera]|
+|Day 51|Feb 20, 2021| Continued with **Python Libraries** | [Coursera]|
 |Day 52|Feb 23, 2021| Completed with **Python Libraries** | [Coursera] :white_check_mark:|
 |Day 53|Feb 24, 2021| Started with **Statistics** | [Coursera]|
 |Day 54|Feb 25, 2021| Continued with **Statistics** | [Coursera]|
