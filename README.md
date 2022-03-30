@@ -8,7 +8,7 @@
 
 * <a href="https://www.javatpoint.com/data-structure-tutorial">Data Structures</a><a href="https://www.javatpoint.com/data-structure-tutorial" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/data-line-4.svg" alt="Data Structure" width="25" height="25"/> </a>
 
-* <a href="https://www.javatpoint.com/dbms-tutorial">DBMS</a><a href="https://www.javatpoint.com/dbms-tutorial" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/data-base-11.svg" alt="DBMS" width="25" height="25"/> </a>
+* <a href="https://www.javatpoint.com/dbms-tutorial">Database Management System (DBMS)</a><a href="https://www.javatpoint.com/dbms-tutorial" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/data-base-11.svg" alt="DBMS" width="25" height="25"/> </a>
 
 * <a href="https://www.microsoft.com/en-us/sql-server">SQL Server</a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql-server" width="28" height="22"/> </a>  |
 <a href="https://www.mysql.com/">MySQL</a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="20"/> </a>  
@@ -19,7 +19,7 @@
 
 * <a href="https://www.python.org/">Python</a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="20"/> </a>
 
-* ##### Python Libraries : <a href="https://pandas.pydata.org/">Pandas</a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> | <a href="https://numpy.org/">Numpy</a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="25" height="20"/> </a> | <a href="https://matplotlib.org/">Matplotlib</a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/1331979c3208a15be2c2a6177ffc38ced3d6b434/Matplotlib_icon.svg" alt="matplotlib" width="25" height="20"/> </a> 
+* ##### Python Libraries : <a href="https://pandas.pydata.org/">Pandas</a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> | <a href="https://numpy.org/">NumPy</a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="25" height="20"/> </a> | <a href="https://matplotlib.org/">Matplotlib</a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/1331979c3208a15be2c2a6177ffc38ced3d6b434/Matplotlib_icon.svg" alt="matplotlib" width="25" height="20"/> </a> 
 
 * <a href="https://www.coursera.org/learn/statistics-for-data-science-python">Statistics</a><a href="https://www.coursera.org/learn/statistics-for-data-science-python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> </a>
 
@@ -99,11 +99,11 @@
 |Day 42|Feb 12, 2022| Continued with **Python** (Hash Tables / Hash Map) | [Coursera]|
 |Day 43|Feb 12, 2022| Continued with **Python** (OOPs Concept - Class & Objects, Constructors, Destructors) | [Coursera]|
 |Day 44|Feb 12, 2022| Continued with **Python** (OOPs Concept - Inheritance) | [Coursera]|
-|Day 45|Feb 12, 2022| Continued with **Python** (OOPs Concept - Polymorphism) | [Coursera]|
-|Day 46|Feb 13, 2022| Continued with **Python** (OOPs Concept - Encapsulation, Data Abstraction) |  [Coursera]|
-|Day 47|Feb 14, 2022| Completed with **Python** (File Handling) | [Project in Python] :white_check_mark:|
-|Day 48|Feb 15, 2022| Started with **Python Libraries - Numpy** | [Python Libraries](https://github.com/mrankitgupta/PythonLibraries)|
-|Day 49|Feb 16, 2022| Continued with **Python Libraries - Numpy** | [JavaTpoint]|
+|Day 45|Feb 12, 2022| Continued with **Python** (OOPs Concept - Polymorphism, Encapsulation) | [Coursera]|
+|Day 46|Feb 13, 2022| Continued with **Python** (OOPs Concept - Data Abstraction, Python Super Function) |  [Coursera]|
+|Day 47|Feb 14, 2022| Completed with **Python** (Exception Handling, File Handling & Unit Testing in Python) | [Project in Python] :white_check_mark:|
+|Day 48|Feb 15, 2022| Started with **Python Libraries - NumPy** (Basics, NumPy v/s MATLAB, NumPy v/s List, NdArray, Datatypes, Array Attributes) | [Python Libraries](https://github.com/mrankitgupta/PythonLibraries)|
+|Day 49|Feb 16, 2022| Continued with **Python Libraries - NumPy** (Indexing & Slicing, Array Creation, Broadcasting, Operations, Functions, Mathematics, Matrix, NumPy-Matplotlib) | [JavaTpoint]|
 |Day 50|Feb 17, 2022| Continued with **Python Libraries - Pandas** | [YouTube]|
 |Day 51|Feb 18, 2022| Continued with **Python Libraries - Pandas** | [Coursera]|
 |Day 52|Feb 19, 2022| Continued with **Python Libraries - Pandas** | [Coursera]|
