@@ -43,7 +43,7 @@
 
 ### [Ankit Gupta](https://ankitgupta.bio.link/)
 
-<p align="left"> <a href="https://twitter.com/Mr_AnkitGupta01/" target="blank"><img src="https://img.shields.io/twitter/follow/Mr_AnkitGupta01?logo=twitter&style=for-the-badge" alt="Mr_AnkitGupta01" /></a> </p>
+<p align="left"> <a href="https://twitter.com/MrAnkitGupta_" target="blank"><img src="https://img.shields.io/twitter/follow/MrAnkitGupta_?logo=twitter&style=for-the-badge" alt="MrAnkitGupta_" /></a> </p>
 
 <a href="mailto:ankitgupta3150@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ankitgupta3150@gmail.com" height="20" width="85" /></a>
 <a href="https://www.linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://img.shields.io/badge/-MrAnkitGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrankitgupta/" alt="MrAnkitGupta" height="20" width="100" /></a>
@@ -133,4 +133,4 @@ More importantly, I have developed the habit of learning Data Science every day 
 ## For any queries/doubts 🔗
 
 ### [Ankit Gupta](https://ankitgupta.bio.link/)
-<p align="left"> <a href="https://twitter.com/Mr_AnkitGupta01/" target="blank"><img src="https://img.shields.io/twitter/follow/Mr_AnkitGupta01?logo=twitter&style=for-the-badge" alt="Mr_AnkitGupta01" /></a> </p>
+<p align="left"> <a href="https://twitter.com/MrAnkitGupta_/" target="blank"><img src="https://img.shields.io/twitter/follow/MrAnkitGupta_?logo=twitter&style=for-the-badge" alt="MrAnkitGupta_" /></a> </p>
