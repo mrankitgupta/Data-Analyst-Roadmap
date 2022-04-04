@@ -103,10 +103,10 @@
 |Day 46|Feb 13, 2022| Continued with **Python** (OOPs Concept - Data Abstraction, Python Super Function) |  [Coursera]|
 |Day 47|Feb 14, 2022| Completed with **Python** (Exception Handling, File Handling & Unit Testing in Python) | [Project in Python] :white_check_mark:|
 |Day 48|Feb 15, 2022| Started with **Python Libraries - NumPy** (Basics, NumPy v/s MATLAB, NumPy v/s List, NdArray, Datatypes, Array Attributes) | [Python Libraries](https://github.com/mrankitgupta/PythonLibraries)|
-|Day 49|Feb 16, 2022| Continued with **Python Libraries - NumPy** (Indexing & Slicing, Array Creation, Broadcasting, Operations, Functions, Mathematics, Matrix, NumPy-Matplotlib) | [JavaTpoint]|
-|Day 50|Feb 17, 2022| Continued with **Python Libraries - Pandas** | [YouTube]|
-|Day 51|Feb 18, 2022| Continued with **Python Libraries - Pandas** | [Coursera]|
-|Day 52|Feb 19, 2022| Continued with **Python Libraries - Pandas** | [Coursera]|
+|Day 49|Feb 16, 2022| Continued with **Python Libraries - NumPy** (Indexing & Slicing, Array Creation, Broadcasting, Operations, Functions, Mathematics, Matrix, NumPy-Matplotlib) | [JavaTpoint] :white_check_mark:|
+|Day 50|Feb 17, 2022| Continued with **Python Libraries - Pandas** (Basics, Data Structures - Series, DataFrame, Panel) | [YouTube]|
+|Day 51|Feb 18, 2022| Continued with **Python Libraries - Pandas** (Operations - Slicing, Merging, Joining, Concatenation) | [Coursera]|
+|Day 52|Feb 19, 2022| Continued with **Python Libraries - Pandas** (Changing Index & Column Header, Pandas-Matplotlib, Data Munging) | [Coursera] :white_check_mark:|
 |Day 53|Feb 20, 2022| Continued with **Python Libraries - Matplotlib** | [Coursera]|
 |Day 54|Feb 23, 2022| Completed with **Python Libraries - Matplotlib** | [Coursera] :white_check_mark:|
 |Day 55|Feb 24, 2022| Started with **Statistics** | [Coursera]|
