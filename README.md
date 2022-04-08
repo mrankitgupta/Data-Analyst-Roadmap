@@ -107,8 +107,8 @@
 |Day 50|Feb 17, 2022| Continued with **Python Libraries - Pandas** (Basics, Data Structures - Series, DataFrame, Panel) | [YouTube]|
 |Day 51|Feb 18, 2022| Continued with **Python Libraries - Pandas** (Operations - Slicing, Merging, Joining, Concatenation) | [Coursera]|
 |Day 52|Feb 19, 2022| Continued with **Python Libraries - Pandas** (Changing Index & Column Header, Pandas-Matplotlib, Data Munging) | [Coursera] :white_check_mark:|
-|Day 53|Feb 20, 2022| Continued with **Python Libraries - Matplotlib** | [Coursera]|
-|Day 54|Feb 23, 2022| Completed with **Python Libraries - Matplotlib** | [Coursera] :white_check_mark:|
+|Day 53|Feb 20, 2022| Continued with **Python Libraries - Matplotlib** (Basics, Data Visualization, Architecture, Concepts) | [Coursera]|
+|Day 54|Feb 23, 2022| Completed with **Python Libraries - Matplotlib** (Pyplot & Subplot, Functions, 7 Types of plots, Multiple plots) | [Coursera] :white_check_mark:|
 |Day 55|Feb 24, 2022| Started with **Statistics** | [Coursera]|
 |Day 56|Feb 25, 2022| Continued with **Statistics** | [Coursera]|
 |Day 57|Feb 26, 2022| Completed with **Statistics** | [Coursera] :white_check_mark:|
