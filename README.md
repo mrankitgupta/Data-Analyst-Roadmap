@@ -104,14 +104,14 @@
 |Day 47|Feb 14, 2022| Completed with **Python** (Exception Handling, File Handling & Unit Testing in Python) | [Project in Python] :white_check_mark:|
 |Day 48|Feb 15, 2022| Started with **Python Libraries - NumPy** (Basics, NumPy v/s MATLAB, NumPy v/s List, NdArray, Datatypes, Array Attributes) | [Python Libraries](https://github.com/mrankitgupta/PythonLibraries)|
 |Day 49|Feb 16, 2022| Continued with **Python Libraries - NumPy** (Indexing & Slicing, Array Creation, Broadcasting, Operations, Functions, Mathematics, Matrix, NumPy-Matplotlib) | [NumPy Tutorial Certification](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) & [JavaTpoint] :white_check_mark:|
-|Day 50|Feb 17, 2022| Continued with **Python Libraries - Pandas** (Basics, Data Structures - Series, DataFrame, Panel) | [Kaggle Pandas Course](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) |
+|Day 50|Feb 17, 2022| Continued with **Python Libraries - Pandas** (Basics, Data Structures - Series, DataFrame, Panel) | [Kaggle - Pandas Course Certification](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) |
 |Day 51|Feb 18, 2022| Continued with **Python Libraries - Pandas** (Operations - Slicing, Merging, Joining, Concatenation) | [Kaggle Notebooks on Pandas](https://www.kaggle.com/mrankitgupta/code) & [GitHub Repo on Pandas](https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises) |
 |Day 52|Feb 19, 2022| Continued with **Python Libraries - Pandas** (Changing Index & Column Header, Pandas-Matplotlib, Data Munging) | [YouTube] :white_check_mark:|
 |Day 53|Feb 20, 2022| Continued with **Python Libraries - Matplotlib** (Basics, Data Visualization, Architecture, Concepts) | [Matplotlib Course Certification](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW)|
 |Day 54|Feb 23, 2022| Completed with **Python Libraries - Matplotlib** (Pyplot & Subplot, Functions, 7 Types of plots, Multiple plots) | [JavaTpoint] :white_check_mark:|
-|Day 55|Feb 24, 2022| Started with **Statistics** | [Coursera] |
-|Day 56|Feb 25, 2022| Continued with **Statistics** | [GitGub Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project) |
-|Day 57|Feb 26, 2022| Completed with **Statistics** | [Coursera] :white_check_mark:|
+|Day 55|Feb 24, 2022| Started with **Statistics** (Introducing, Basics of Descriptive statistics - Mean, Median, Mode, Variance, & Standard deviation) | [Coursera] |
+|Day 56|Feb 25, 2022| Continued with **Statistics** (Data Visualization, Probability & Probability distributions) | [GitHub Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project, Hypothesis testing) |
+|Day 57|Feb 26, 2022| Completed with **Statistics** (Regression Analysis, [Project: Boston Housing Data Analysis using Python](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project/blob/main/Project%20-%20Boston%20Housing%20Data%20Analysis/Project%20Case%20-%20Boston%20Housing%20Data%20Analysis%20(Week%206).ipynb) ) | [Coursera] :white_check_mark:|
 |Day 58|Feb 27, 2022| **Daily Practice while learning** (SQL, Python, Data Structures, Databases) | [HackerRank](https://www.hackerrank.com/mrankitgupta) :white_check_mark: |
 |Day 59|Feb 28, 2022| **SQL Project** | [Project]|
 |Day 60|Mar 1, 2022| **SQL Project** | [Project]|
