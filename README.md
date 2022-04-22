@@ -50,6 +50,8 @@
 
 <code>[Statistics for Data Science using Python](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python)</code> 📊
  
+<code>[Kaggle - Pandas Solved Exercises](https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises)</code> 📊
+ 
 <code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑
 
 <code>[Python Libraries](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️
