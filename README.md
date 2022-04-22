@@ -1,6 +1,6 @@
-<h1 align="center">My #66DaysOfData Journey into Data Analytics 📊</h1>
+<h1 align="center">Data Analyst Roadmap 📊</h1>
 
-**I am sharing my journey of 66DaysofData into Data Analytics by participating in Ken Jee's #66daysofdata challenge** 
+**I am sharing my journey of #66DaysofData into Data Analytics by participating in Ken Jee's #66daysofdata challenge** 
 
 ## Technologies used ⚙️
 
@@ -19,22 +19,37 @@
 
 * <a href="https://www.python.org/">Python</a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="20"/> </a>
 
-* ##### Python Libraries : <a href="https://pandas.pydata.org/">Pandas</a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> | <a href="https://numpy.org/">NumPy</a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="25" height="20"/> </a> | <a href="https://matplotlib.org/">Matplotlib</a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/1331979c3208a15be2c2a6177ffc38ced3d6b434/Matplotlib_icon.svg" alt="matplotlib" width="25" height="20"/> </a> 
+* ##### Python Libraries : <a href="https://pandas.pydata.org/">Pandas</a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> | <a href="https://numpy.org/">NumPy</a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/2a582d085b324cff4917325112229027309ecae3/Numpy-logo.svg" alt="numpy" width="25" height="20"/> </a> | <a href="https://matplotlib.org/">Matplotlib</a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/1331979c3208a15be2c2a6177ffc38ced3d6b434/Matplotlib_icon.svg" alt="matplotlib" width="25" height="20"/> </a> | <a href="https://seaborn.pydata.org">Seaborn</a><a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="25" height="20"/> </a> 
 
-* <a href="https://www.coursera.org/learn/statistics-for-data-science-python">Statistics</a><a href="https://www.coursera.org/learn/statistics-for-data-science-python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> </a>
+* <a href="https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url">Statistics</a><a href="https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> </a>
 
 <h2 align="left">My Certifications 📜 🎓 ✔️</h2>
 
-- [Data Visualization with Advanced Excel](https://coursera.org/share/064db4645159df788ad0b31abebf1556)
-
-- Databases and SQL for Data Science with Python
+- [Data Analysis with Python](https://github.com/mrankitgupta) - by IBM
  
-- Data Visualization with Tableau
-  
-- Data Analysis with Python
+- [Data Visualization with Python](https://github.com/mrankitgupta) - by IBM
 
-## Projects 👨‍💻 🛰️
+- [Pandas](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) - by Kaggle
+ 
+- [Numpy](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) & [Matplotlib](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW) - by Great Learning
 
+- [Databases and SQL for Data Science with Python](https://github.com/mrankitgupta) - by IBM
+
+- [Statistics for Data Science with Python](https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url) - by IBM
+
+- [Data Visualization with Tableau](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI3OTUiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl8zMzkyNjI4XzE2NTAxMTE0NzcucG5nIiwidXNlcm5hbWUiOiJBbmtpdCBHdXB0YSJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion) - by Simplilearn
+
+- [Data Visualization with Advanced Excel](https://www.coursera.org/account/accomplishments/certificate/CY9V466RB36R) - by PWC
+
+
+## What are my featured projects:question: 👨‍💻 🛰️
+
+<code>[Spotify Data Analysis using Python](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python)</code> 📊
+
+<code>[Sales Insights - Data Analysis using Tableau & SQL](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL)</code> 📊
+
+<code>[Statistics for Data Science using Python](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python)</code> 📊
+ 
 <code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑
 
 <code>[Python Libraries](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️
