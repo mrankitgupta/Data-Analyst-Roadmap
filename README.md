@@ -127,11 +127,11 @@
 |Day 53| Continued with **Python Libraries - Matplotlib** (Basics, Data Visualization, Architecture, Concepts) | [Matplotlib Course - by Great Learning](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW)|
 |Day 54| Completed with **Python Libraries - Matplotlib** (Pyplot & Subplot, Functions, 7 Types of plots, Multiple plots) | [JavaTpoint](https://www.javatpoint.com/matplotlib), [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk&t=32953s), [TutorialsPoint](https://www.tutorialspoint.com/matplotlib/index.htm) :white_check_mark:|
 |Day 55| Started with **Statistics** (Intro, Basics of Descriptive statistics - Mean, Median, Mode, Variance, & Standard deviation) | [Statistics for Data Science with Python - by IBM](https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url) |
-|Day 56| Continued with **Statistics** (Data Visualization, Probability & Probability distributions, Hypothesis testing) | [GitHub Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project) |
-|Day 57| Completed with **Statistics** (Regression Analysis, [Project: Boston Housing Data Analysis using Python](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project/blob/main/Project%20-%20Boston%20Housing%20Data%20Analysis/Project%20Case%20-%20Boston%20Housing%20Data%20Analysis%20(Week%206).ipynb) ) | [Coursera] :white_check_mark:|
+|Day 56| Continued with **Statistics** (Data Visualization, Probability & Probability distributions, Hypothesis testing) | [TutorialsPoint](https://www.tutorialspoint.com/statistics/index.htm), [GitHub Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project) |
+|Day 57| Completed with **Statistics** (Regression Analysis, [Project: Boston Housing Data Analysis using Python](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project/blob/main/Project%20-%20Boston%20Housing%20Data%20Analysis/Project%20Case%20-%20Boston%20Housing%20Data%20Analysis%20(Week%206).ipynb) ) | [Resl Estate Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project/blob/main/Project%20-%20Boston%20Housing%20Data%20Analysis/Project%20Case%20-%20Boston%20Housing%20Data%20Analysis%20(Week%206).ipynb) :white_check_mark:|
 |Day 58| **Daily Practice while learning** (SQL, Python, Data Structures, Databases) | [HackerRank](https://www.hackerrank.com/mrankitgupta) :white_check_mark: |
-|Day 59| **SQL Project** | [Project]|
-|Day 60| **SQL Project** | [Project]|
+|Day 59| **Tableau Project -** Sales Insights - Data Analysis using Tableau & SQL | [Project]|
+|Day 60| **Tableau Project -** Sales Insights - Data Analysis using Tableau & SQL | [Project]|
 |Day 61| **Tableau Project** | [Project]|
 |Day 62| **Tableau Project** | [Project]|
 |Day 63| **Python Project** | [Project]|
