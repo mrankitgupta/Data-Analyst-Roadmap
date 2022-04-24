@@ -132,10 +132,10 @@
 |Day 58| **Daily Practice while learning** (SQL, Python, Data Structures, Databases) | [HackerRank](https://www.hackerrank.com/mrankitgupta) :white_check_mark: |
 |Day 59| **Tableau Project :** Sales Insights - Data Analysis using Tableau & SQL | [Project](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL)|
 |Day 60| **Tableau Project :** Sales Insights - Data Analysis using Tableau & SQL | [Tableau Public Dashboard](https://public.tableau.com/app/profile/mrankitgupta) |
-|Day 61| **Tableau Project :** Sales Insights - Data Analysis using Tableau & SQL | [YouTube](https://www.youtube.com/playlist?list=PLeo1K3hjS3utcb9nKtanhcn8jd2E0Hp9b) |
+|Day 61| **Tableau Project :** Sales Insights - Data Analysis using Tableau & SQL | [YouTube](https://www.youtube.com/playlist?list=PLeo1K3hjS3utcb9nKtanhcn8jd2E0Hp9b)  :white_check_mark:|
 |Day 62| **Python Project :** Spotify Data Analysis using Python | [Project](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python) |
 |Day 63| **Python Project :** Spotify Data Analysis using Python | [Kaggle Notebook](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project) |
-|Day 64| **Python Project :** Spotify Data Analysis using Python | [YouTube](https://www.youtube.com/watch?v=8d7ywKCm6HI) |
+|Day 64| **Python Project :** Spotify Data Analysis using Python | [YouTube](https://www.youtube.com/watch?v=8d7ywKCm6HI) :white_check_mark:|
 |Day 65| **Project :** Boston Housing Data Analysis using Python | [Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project) |
 |Day 66| **Challenge accomplished** |:white_check_mark:|
  
