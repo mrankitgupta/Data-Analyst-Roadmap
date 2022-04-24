@@ -130,8 +130,8 @@
 |Day 56| Continued with **Statistics** (Data Visualization, Probability & Probability distributions, Hypothesis testing) | [TutorialsPoint](https://www.tutorialspoint.com/statistics/index.htm), [GitHub Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project) |
 |Day 57| Completed with **Statistics** (Regression Analysis, [Project: Boston Housing Data Analysis using Python](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project/blob/main/Project%20-%20Boston%20Housing%20Data%20Analysis/Project%20Case%20-%20Boston%20Housing%20Data%20Analysis%20(Week%206).ipynb) ) | [Resl Estate Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project/blob/main/Project%20-%20Boston%20Housing%20Data%20Analysis/Project%20Case%20-%20Boston%20Housing%20Data%20Analysis%20(Week%206).ipynb) :white_check_mark:|
 |Day 58| **Daily Practice while learning** (SQL, Python, Data Structures, Databases) | [HackerRank](https://www.hackerrank.com/mrankitgupta) :white_check_mark: |
-|Day 59| **Tableau Project -** Sales Insights - Data Analysis using Tableau & SQL | [Project]|
-|Day 60| **Tableau Project -** Sales Insights - Data Analysis using Tableau & SQL | [Project]|
+|Day 59| **Tableau Project :** Sales Insights - Data Analysis using Tableau & SQL | [Project]|
+|Day 60| **Tableau Project :** Sales Insights - Data Analysis using Tableau & SQL | [Project]|
 |Day 61| **Tableau Project** | [Project]|
 |Day 62| **Tableau Project** | [Project]|
 |Day 63| **Python Project** | [Project]|
