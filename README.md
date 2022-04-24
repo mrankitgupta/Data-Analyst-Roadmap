@@ -73,54 +73,54 @@
 |**Day :calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
 |------|--------------------|---------------------|
 |Day 1| Learnt Basics of **Advanced Excel** (Functions, Formulas, Charts, Conditional Formatting) | [Coursera](https://coursera.org/share/064db4645159df788ad0b31abebf1556)|\
-|Day 2| Practiced taking sample data on **Advanced Excel** (Lookups, What-If Tool, Pivot Table, VBS & Macros, Power Pivot & Dashboards) | [Coursera](https://coursera.org/share/064db4645159df788ad0b31abebf1556) :white_check_mark:|
+|Day 2| Practiced taking sample data on **Advanced Excel** (Lookups, What-If Tool, Pivot Table, VBS & Macros, Power Pivot & Dashboards) | [YouTube](https://www.youtube.com/watch?v=RdTozKPY_OQ&t=3658s) :white_check_mark:|
 |Day 3| Started with **Data Structures** (Arrays, Stack, Queue, Linked List & their Computational Complexity) | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm)| 
-|Day 4| Continued with **Data Structures** (Doubly Linked List, Dictionaries, Trees) | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm)| 
-|Day 5| Completed with **Data Structures** (Tries, Heap, Sorting, Graph) | [YouTube](https://www.youtube.com/watch?v=zg9ih6SVACc) :white_check_mark:|
-|Day 6| Started with **DBMS** (Concepts, Charachteristics & Architectures, File system vs DBMS Database storage structures, Data models, Data Schema) | [JavaTpoint](https://www.javatpoint.com/dbms-tutorial)| 
+|Day 4| Continued with **Data Structures** (Doubly Linked List, Dictionaries, Trees) |  [YouTube 1](https://www.youtube.com/watch?v=zg9ih6SVACc)| 
+|Day 5| Completed with **Data Structures** (Tries, Heap, Sorting, Graph) | [YouTube 2](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU) :white_check_mark:|
+|Day 6| Started with **DBMS** (Concepts, Charachteristics & Architectures, File system vs DBMS Database storage structures, Data models, Data Schema) | [JavaTpoint - DBMS](https://www.javatpoint.com/dbms-tutorial)| 
 |Day 7| Continued with **DBMS** (Entity Relationship Model, Design, Relational Model, Relational Algebra, Functional Dependencies, keys) | [YouTube](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)| 
-|Day 8| Continued with **DBMS** (Normalisation, types, purpose, keys, Schema, Transactional mngt. and Concurrency Control, Acid property, Deadlock) | [JavaTpoint](https://www.javatpoint.com/dbms-tutorial)| 
-|Day 9| Continued with **DBMS** (Indexing, B and B+ trees, File Organization, Joins, Hashing) | [JavaTpoint](https://www.javatpoint.com/dbms-tutorial)| 
-|Day 10| Continued with **DBMS** (Backup & recovery techniques, Database security & Authorization, Query processing & evaluation) | [JavaTpoint](https://www.javatpoint.com/dbms-tutorial)| 
-|Day 11| Completed with **DBMS** (Data Warehousing, Schemas - (Star schema, Snowflake schema), OLAP, OLTP, Data Mining) | [JavaTpoint](https://www.javatpoint.com/dbms-tutorial) :white_check_mark:| 
+|Day 8| Continued with **DBMS** (Normalisation, types, purpose, keys, Schema, Transactional mngt. and Concurrency Control, Acid property, Deadlock) | [Geeks for Geeks](https://www.geeksforgeeks.org/dbms/)| 
+|Day 9| Continued with **DBMS** (Indexing, B and B+ trees, File Organization, Joins, Hashing) | [JavaTpoint - Data Mining](https://www.javatpoint.com/data-mining)| 
+|Day 10| Continued with **DBMS** (Backup & recovery techniques, Database security & Authorization, Query processing & evaluation) | [JavaTpoint - Data Warehouse](https://www.javatpoint.com/data-warehouse)| 
+|Day 11| Completed with **DBMS** (Data Warehousing, Schemas - (Star schema, Snowflake schema), OLAP, OLTP, Data Mining) | :white_check_mark:| 
 |Day 12| Started with **SQL** (RDBMS, SQL vs NoSQL, Hbase vs Rdbms, Basics, Constraints, Syntax- DDL, DML) | [JavaTpoint](https://www.javatpoint.com/sql-tutorial)| 
 |Day 13| Continued with **SQL** (Syntax - DQL, DCL & TCL, Operators, Database, Table, Select) | [YouTube](https://www.youtube.com/watch?v=BPHAr4QGGVE)| 
-|Day 14| Continued with **SQL** (Clauses, Order by, Insert, Update, Delete, Join, Keys, Queries, Functions) | [Coursera]|
-|Day 15| Continued with **SQL** (SQL-Injection, Data Integrity, Constraints, Flow control, T-SQL) | [Coursera]| 
-|Day 16| Completed with **SQL** (Backup & Restore, Pivot table, Alias Syntax, Wildcards, Truncate table) | [Project] :white_check_mark:| 
+|Day 14| Continued with **SQL** (Clauses, Order by, Insert, Update, Delete, Join, Keys, Queries, Functions) | [TutorialsPoint](https://www.tutorialspoint.com/sql/index.htm)|
+|Day 15| Continued with **SQL** (SQL-Injection, Data Integrity, Constraints, Flow control, T-SQL) | [Databases and SQL for Data Science with Python - by IBM](https://github.com/mrankitgupta)| 
+|Day 16| Completed with **SQL** (Backup & Restore, Pivot table, Alias Syntax, Wildcards, Truncate table) | [Project: Sales Insights - Data Analysis using Tableau & SQL](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL) :white_check_mark:| 
 |Day 17| Started with **NoSQL** | [JavaTpoint](https://www.javatpoint.com/mongodb-tutorial)| 
 |Day 18| Continued with **MongoDB** | [YouTube](https://www.youtube.com/watch?v=oSIv-E60NiU)| 
 |Day 19| Continued with **MongoDB** | [Coursera]| 
 |Day 20| Completed with **MongoDB** | [Project] :white_check_mark:| 
 |Day 21| Started with **Tableau & Data Visualization** (Data Cleaning, Blending, Data Joining, Data Blending, Data Sorting, Data Aggregation) | [JavaTpoint](https://www.javatpoint.com/tableau)|
 |Day 22| Continued with **Tableau & Data Visualization** (Tableau Calculations - Operators, Functions, Numeric Calculations, String Calculations, Date Calculations, Table Calculations, LOD Expressions) | [YouTube](https://www.youtube.com/watch?v=aHaOIvR00So)| 
-|Day 23| Continued with **Tableau & Data Visualization** (Filter Data, Filter Operations, Extract Filters, Quick Filters, Context Filters, Condition Filters, Data Source Filters, Top Filters, Sort Data, Build Groups, Build Hierarchy, Build Sets) | [Coursera]| 
-|Day 24| Continued with **Tableau & Data Visualization** (Charts & Graphs - Bar Chart, Line Chart, Pie Chart, Bubble Chart, Bump Chart, Gantt Chart, Crosstab Chart, Motion Chart, Waterfall Chart, Bullet Chart, Area Chart, Pareto Chart, Dual Axis Chart, Box Plot, Heat Map, Tree Map, Scatter Plot, Histogram) | [Coursera]| 
-|Day 25| Completed with **Tableau & Data Visualization** (Dashboard, Formatting, Forecasting, Trend Lines, Advanced Mapping - Point to point maps, Calculation distances between two points on a map, Dual axis map) | [Project] :white_check_mark:| 
+|Day 23| Continued with **Tableau & Data Visualization** (Filter Data, Filter Operations, Extract Filters, Quick Filters, Context Filters, Condition Filters, Data Source Filters, Top Filters, Sort Data, Build Groups, Build Hierarchy, Build Sets) | [Data Visualization with Tableau - by Simplilearn](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI3OTUiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl8zMzkyNjI4XzE2NTAxMTE0NzcucG5nIiwidXNlcm5hbWUiOiJBbmtpdCBHdXB0YSJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion)| 
+|Day 24| Continued with **Tableau & Data Visualization** (Charts & Graphs - Bar Chart, Line Chart, Pie Chart, Bubble Chart, Bump Chart, Gantt Chart, Crosstab Chart, Motion Chart, Waterfall Chart, Bullet Chart, Area Chart, Pareto Chart, Dual Axis Chart, Box Plot, Heat Map, Tree Map, Scatter Plot, Histogram) | [My Tableau Public Project](https://public.tableau.com/app/profile/mrankitgupta)| 
+|Day 25| Completed with **Tableau & Data Visualization** (Dashboard, Formatting, Forecasting, Trend Lines, Advanced Mapping - Point to point maps, Calculation distances between two points on a map, Dual axis map) | [Project: Sales Insights - Data Analysis using Tableau & SQL](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL) :white_check_mark:| 
 |Day 26| Started with **Python** (Python basics - Features Applications, Python 2 vs Python 3, Libraries uses) | [JavaTpoint](https://www.javatpoint.com/python-tutorial)| 
 |Day 27| Continued with **Python** (Interpreter Prompt, Script mode programming, IDEs, Features of an IDE, Compiler vs Interpreter) | [Geeks for Geeks](https://www.geeksforgeeks.org/python-programming-language/)| 
-|Day 28| Continued with **Python** (Pycharm - Featues, Important tools, Useful Plugins) | [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk)| 
-|Day 29| Continued with **Python** (Modules, Comments, Pip, Docstrings) | [Python Lessons for Practice](https://github.com/mrankitgupta/PythonLessons)| 
-|Day 30| Continued with **Python** (Indentation, Packages in Python, Modules vs Packages) | [Coursera]| 
-|Day 31| Continued with **Python** (Variables, Declaring & Assigning Values, Object references, Object identity, Variable names, Multiple Assignment, Variable Types) | [Coursera]| 
-|Day 32| Continued with **Python** (Fundamentals of Python - Tokens, Keywords, Literals, Operators, Identifiers & Comments) | [Coursera]| 
-|Day 33| Continued with **Python** (Data Types - Numbers, Sequence Type, Dictionary, Set, Type Conversion) | [Coursera]| 
-|Day 34| Continued with **Python** (Collection Module - String, List & Tuples) | [Coursera]| 
-|Day 35| Continued with **Python** (Collection Module - Sets, Dictionary & Different containers provided by collection module) | [Coursera]| 
-|Day 36| Continued with **Python** (Control Flows - Indentation, If-Else & ELIF Statements) | [Coursera]|
-|Day 37| Continued with **Python** (Control Flows - For, While & Nested Loops, Control statements & Patterns) | [Coursera]|
-|Day 38| Continued with **Python** (Functions - Types of Functions, Arguments & it's Types, Scope of Variables) | [Coursera]|
-|Day 39| Continued with **Python** (Functions - Built-in Functions) | [Coursera]|
-|Day 40| Continued with **Python** (Functions - Lambda Functions, Decorators, Generators) | [Coursera]|
-|Day 41| Continued with **Python** (Arrays) | [Coursera]|
-|Day 42| Continued with **Python** (Hash Tables / Hash Map) | [Coursera]|
-|Day 43| Continued with **Python** (OOPs Concept - Class & Objects, Constructors, Destructors) | [Coursera]|
-|Day 44| Continued with **Python** (OOPs Concept - Inheritance) | [Coursera]|
-|Day 45| Continued with **Python** (OOPs Concept - Polymorphism, Encapsulation) | [Coursera]|
-|Day 46| Continued with **Python** (OOPs Concept - Data Abstraction, Python Super Function) |  [Coursera]|
-|Day 47| Completed with **Python** (Exception Handling, File Handling & Unit Testing in Python) | [Project in Python] :white_check_mark:|
+|Day 28| Continued with **Python** (Pycharm - Featues, Important tools, Useful Plugins) | [YouTube 1](https://www.youtube.com/watch?v=WGJJIrtnfpk)| 
+|Day 29| Continued with **Python** (Modules, Comments, Pip, Docstrings) | [Youtube 2](https://www.youtube.com/watch?v=EyEqWFvLDT8)| 
+|Day 30| Continued with **Python** (Indentation, Packages in Python, Modules vs Packages) | [Python Lessons for Practice](https://github.com/mrankitgupta/PythonLessons)| 
+|Day 31| Continued with **Python** (Variables, Declaring & Assigning Values, Object references, Object identity, Variable names, Multiple Assignment, Variable Types) | [Data Analysis with Python - by IBM](https://github.com/mrankitgupta)| 
+|Day 32| Continued with **Python** (Fundamentals of Python - Tokens, Keywords, Literals, Operators, Identifiers & Comments) | [Data Visualization with Python](https://github.com/mrankitgupta)| 
+|Day 33| Continued with **Python** (Data Types - Numbers, Sequence Type, Dictionary, Set, Type Conversion) | [Databases and SQL for Data Science with Python - by IBM](https://github.com/mrankitgupta)| 
+|Day 34| Continued with **Python** (Collection Module - String, List & Tuples) | [Statistics for Data Science with Python - by IBM](https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url)| 
+|Day 35| Continued with **Python** (Collection Module - Sets, Dictionary & Different containers provided by collection module) | [HackerRank - Practice](https://www.hackerrank.com/mrankitgupta)| 
+|Day 36| Continued with **Python** (Control Flows - Indentation, If-Else & ELIF Statements) | [Code With Harry - Python Notes & Tutorial](https://www.codewithharry.com/videos/python-tutorial-easy-for-beginners)|
+|Day 37| Continued with **Python** (Control Flows - For, While & Nested Loops, Control statements & Patterns) | [Python Cheatsheet - Code With Harry](https://www.codewithharry.com/blogpost/python-cheatsheet)|
+|Day 38| Continued with **Python** (Functions - Types of Functions, Arguments & it's Types, Scope of Variables) | [Basic Python Projects - YouTube](https://www.youtube.com/playlist?list=PLu0W_9lII9agqZuv_XJen_BEHycIh-FmG)|
+|Day 39| Continued with **Python** (Functions - Built-in Functions) | |
+|Day 40| Continued with **Python** (Functions - Lambda Functions, Decorators, Generators) | |
+|Day 41| Continued with **Python** (Arrays) | |
+|Day 42| Continued with **Python** (Hash Tables / Hash Map) | |
+|Day 43| Continued with **Python** (OOPs Concept - Class & Objects, Constructors, Destructors) | |
+|Day 44| Continued with **Python** (OOPs Concept - Inheritance) | |
+|Day 45| Continued with **Python** (OOPs Concept - Polymorphism, Encapsulation) | [Project 1: Spotify Data Analysis using Python](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python)|
+|Day 46| Continued with **Python** (OOPs Concept - Data Abstraction, Python Super Function) |  [Project 2: Statistics for Data Science using Python](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python)|
+|Day 47| Completed with **Python** (Exception Handling, File Handling & Unit Testing in Python) | :white_check_mark:|
 |Day 48| Started with **Python Libraries - NumPy** (Basics, NumPy v/s MATLAB, NumPy v/s List, NdArray, Datatypes, Array Attributes) | [Python Libraries](https://github.com/mrankitgupta/PythonLibraries)|
-|Day 49| Continued with **Python Libraries - NumPy** (Indexing & Slicing, Array Creation, Broadcasting, Operations, Functions, Mathematics, Matrix, NumPy-Matplotlib) | [NumPy Tutorial Certification](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) & [JavaTpoint] :white_check_mark:|
+|Day 49| Continued with **Python Libraries - NumPy** (Indexing & Slicing, Array Creation, Broadcasting, Operations, Functions, Mathematics, Matrix, NumPy-Matplotlib) | [NumPy Tutorial - by Great Learning](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) & [TutorialsPoint](https://www.tutorialspoint.com/numpy/index.htm), [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk&t=27503s) :white_check_mark:|
 |Day 50| Continued with **Python Libraries - Pandas** (Basics, Data Structures - Series, DataFrame, Panel) | [Kaggle - Pandas Course Certification](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) |
 |Day 51| Continued with **Python Libraries - Pandas** (Operations - Slicing, Merging, Joining, Concatenation) | [Kaggle Notebooks on Pandas](https://www.kaggle.com/mrankitgupta/code) & [GitHub Repo on Pandas](https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises) |
 |Day 52| Continued with **Python Libraries - Pandas** (Changing Index & Column Header, Pandas-Matplotlib, Data Munging) | [YouTube] :white_check_mark:|
