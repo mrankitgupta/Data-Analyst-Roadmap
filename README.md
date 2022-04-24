@@ -128,15 +128,15 @@
 |Day 54| Completed with **Python Libraries - Matplotlib** (Pyplot & Subplot, Functions, 7 Types of plots, Multiple plots) | [JavaTpoint](https://www.javatpoint.com/matplotlib), [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk&t=32953s), [TutorialsPoint](https://www.tutorialspoint.com/matplotlib/index.htm) :white_check_mark:|
 |Day 55| Started with **Statistics** (Intro, Basics of Descriptive statistics - Mean, Median, Mode, Variance, & Standard deviation) | [Statistics for Data Science with Python - by IBM](https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url) |
 |Day 56| Continued with **Statistics** (Data Visualization, Probability & Probability distributions, Hypothesis testing) | [TutorialsPoint](https://www.tutorialspoint.com/statistics/index.htm), [GitHub Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project) |
-|Day 57| Completed with **Statistics** (Regression Analysis, [Project: Boston Housing Data Analysis using Python](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project/blob/main/Project%20-%20Boston%20Housing%20Data%20Analysis/Project%20Case%20-%20Boston%20Housing%20Data%20Analysis%20(Week%206).ipynb) ) | [Resl Estate Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project/blob/main/Project%20-%20Boston%20Housing%20Data%20Analysis/Project%20Case%20-%20Boston%20Housing%20Data%20Analysis%20(Week%206).ipynb) :white_check_mark:|
+|Day 57| Completed with **Statistics** (Regression Analysis, [Project: Boston Housing Data Analysis using Python](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project/blob/main/Project%20-%20Boston%20Housing%20Data%20Analysis/Project%20Case%20-%20Boston%20Housing%20Data%20Analysis%20(Week%206).ipynb) ) | [Real Estate Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project/blob/main/Project%20-%20Boston%20Housing%20Data%20Analysis/Project%20Case%20-%20Boston%20Housing%20Data%20Analysis%20(Week%206).ipynb) :white_check_mark:|
 |Day 58| **Daily Practice while learning** (SQL, Python, Data Structures, Databases) | [HackerRank](https://www.hackerrank.com/mrankitgupta) :white_check_mark: |
-|Day 59| **Tableau Project :** Sales Insights - Data Analysis using Tableau & SQL | [Project]|
-|Day 60| **Tableau Project :** Sales Insights - Data Analysis using Tableau & SQL | [Project]|
-|Day 61| **Tableau Project** | [Project]|
-|Day 62| **Tableau Project** | [Project]|
-|Day 63| **Python Project** | [Project]|
-|Day 64| **Python Project** | [Project]|
-|Day 65| **Project** | [Project]|
+|Day 59| **Tableau Project :** Sales Insights - Data Analysis using Tableau & SQL | [Project](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL)|
+|Day 60| **Tableau Project :** Sales Insights - Data Analysis using Tableau & SQL | [Tableau Public Dashboard](https://public.tableau.com/app/profile/mrankitgupta) |
+|Day 61| **Tableau Project :** Sales Insights - Data Analysis using Tableau & SQL | [YouTube](https://www.youtube.com/playlist?list=PLeo1K3hjS3utcb9nKtanhcn8jd2E0Hp9b) |
+|Day 62| **Python Project :** Spotify Data Analysis using Python | [Project](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python) |
+|Day 63| **Python Project :** Spotify Data Analysis using Python | [Kaggle Notebook](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project) |
+|Day 64| **Python Project :** Spotify Data Analysis using Python | [YouTube](https://www.youtube.com/watch?v=8d7ywKCm6HI) |
+|Day 65| **Project : ** Boston Housing Data Analysis using Python | [Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project) |
 |Day 66| **Challenge accomplished** |:white_check_mark:|
  
 So happy to have followed the journey through for the past 66 days.
