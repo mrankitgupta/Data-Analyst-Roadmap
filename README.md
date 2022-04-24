@@ -136,7 +136,7 @@
 |Day 62| **Python Project :** Spotify Data Analysis using Python | [Project](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python) |
 |Day 63| **Python Project :** Spotify Data Analysis using Python | [Kaggle Notebook](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project) |
 |Day 64| **Python Project :** Spotify Data Analysis using Python | [YouTube](https://www.youtube.com/watch?v=8d7ywKCm6HI) |
-|Day 65| **Project : ** Boston Housing Data Analysis using Python | [Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project) |
+|Day 65| **Project :** Boston Housing Data Analysis using Python | [Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project) |
 |Day 66| **Challenge accomplished** |:white_check_mark:|
  
 So happy to have followed the journey through for the past 66 days.
