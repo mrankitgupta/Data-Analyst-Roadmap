@@ -139,26 +139,27 @@
 |Day 65| **Project :** Boston Housing Data Analysis using Python | [Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project) |
 |Day 66| **Challenge accomplished** |:white_check_mark:|
 
-## Useful sites :link:
+## Useful sites to learn Coding :link:
 
 ### YouTube Channels:
 
 | [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) | [Edureka](https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ) | [Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww), [Programming With Harry](https://www.youtube.com/channel/UC7btqG2Ww0_2LwuQxpvo2HQ) | [CodeBasics](https://www.youtube.com/c/codebasics) | [Gate Smashers](https://www.youtube.com/c/GateSmashers) | [Jenny's lectures](https://www.youtube.com/c/JennyslecturesCSITNETJRF) | [Simplilearn](https://www.youtube.com/channel/UCsvqVGtbbyHaMoevxPAq9Fg) | [Intellipaat](https://www.youtube.com/c/Intellipaat) |
 |--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
 
-
 ### Other Learning Platforms:
 
 | JavaTpoint | TutorialsPoint | Geeks For Geeks | [Code With Harry](https://www.codewithharry.com/) | GitHub | Kaggle  | [Codechef](https://www.codechef.com/) | [DataCamp](https://www.datacamp.com/) | [W3Schools](https://www.w3schools.com/) | [Guru99](https://www.guru99.com/) |
 |--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
  
-
 ### For Certifications:
 
 | Coursera | Great Learnings | [Simplilearn](https://www.simplilearn.com/) | Edureka | [HackerRank](https://www.hackerrank.com/mrankitgupta?hr_r=1)  | [Codechef](https://www.codechef.com/)  |
 |--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
 
- 
+### For Coding Practice:
+| [HackerRank](https://www.hackerrank.com/mrankitgupta?hr_r=1) | Great Learnings | [Codechef](https://www.codechef.com/) |  |  |  |
+|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+
 So happy to have followed the journey through for the past 66 days.
 
 It has really been a great learning experience and I have learnt a lot.
