@@ -72,7 +72,7 @@
 
 |**Day :calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
 |------|--------------------|---------------------|
-|Day 1| Learnt Basics of **Advanced Excel** (Functions, Formulas, Charts, Conditional Formatting) | [Coursera](https://coursera.org/share/064db4645159df788ad0b31abebf1556)|\
+|Day 1| Learnt Basics of **Advanced Excel** (Functions, Formulas, Charts, Conditional Formatting) | [Coursera](https://coursera.org/share/064db4645159df788ad0b31abebf1556)|
 |Day 2| Practiced taking sample data on **Advanced Excel** (Lookups, What-If Tool, Pivot Table, VBS & Macros, Power Pivot & Dashboards) | [YouTube](https://www.youtube.com/watch?v=RdTozKPY_OQ&t=3658s) :white_check_mark:|
 |Day 3| Started with **Data Structures** (Arrays, Stack, Queue, Linked List & their Computational Complexity) | [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm)| 
 |Day 4| Continued with **Data Structures** (Doubly Linked List, Dictionaries, Trees) |  [YouTube 1](https://www.youtube.com/watch?v=zg9ih6SVACc)| 
@@ -138,6 +138,26 @@
 |Day 64| **Python Project :** Spotify Data Analysis using Python | [YouTube](https://www.youtube.com/watch?v=8d7ywKCm6HI) :white_check_mark:|
 |Day 65| **Project :** Boston Housing Data Analysis using Python | [Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project) |
 |Day 66| **Challenge accomplished** |:white_check_mark:|
+
+## Useful sites :link:
+
+### YouTube Channels:
+
+| [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) | [Edureka](https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ) | [Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww), [Programming With Harry](https://www.youtube.com/channel/UC7btqG2Ww0_2LwuQxpvo2HQ) | [CodeBasics](https://www.youtube.com/c/codebasics) | [Gate Smashers](https://www.youtube.com/c/GateSmashers) | [Jenny's lectures](https://www.youtube.com/c/JennyslecturesCSITNETJRF) | [Simplilearn](https://www.youtube.com/channel/UCsvqVGtbbyHaMoevxPAq9Fg) | [Intellipaat](https://www.youtube.com/c/Intellipaat) |
+|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+
+
+### Other Learning Platforms:
+
+| JavaTpoint | TutorialsPoint | Geeks For Geeks | [Code With Harry](https://www.codewithharry.com/) | GitHub | Kaggle  | [Codechef](https://www.codechef.com/) | [DataCamp](https://www.datacamp.com/) | [W3Schools](https://www.w3schools.com/) | [Guru99](https://www.guru99.com/) |
+|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+ 
+
+### For Certifications:
+
+| Coursera | Great Learnings | [Simplilearn](https://www.simplilearn.com/) | Edureka | [HackerRank](https://www.hackerrank.com/mrankitgupta?hr_r=1)  | [Codechef](https://www.codechef.com/)  |
+|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+
  
 So happy to have followed the journey through for the past 66 days.
 
