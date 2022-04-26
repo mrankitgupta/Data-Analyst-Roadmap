@@ -2,6 +2,12 @@
 
 **I am sharing my journey of #66DaysofData into Data Analytics by participating in Ken Jee's #66daysofdata challenge** 
 
+**Data Analytics** is the process of exploring and analyzing large datasets to find hidden patterns, unseen trends, discover correlations, and derive valuable insights to make business predictions.
+
+It helps in Improved Decision Making, Better Customer Service, Efficient Operations, Effective Marketing and Improves the Speed and Efficiency of the business.
+
+Businesses use many modern tools and technologies to perform Data Analytics. 
+
 ## Technologies used ⚙️
 
 * <a href="https://coursera.org/share/064db4645159df788ad0b31abebf1556">Advance Excel</a><a href="https://coursera.org/share/064db4645159df788ad0b31abebf1556" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/60139fb461ef56a19afd68ea4094f6069f27ce49/icons8-microsoft-excel%20(1).svg" alt="excel" width="25" height="25"/> </a>
