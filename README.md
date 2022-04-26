@@ -169,7 +169,7 @@ More importantly, I have developed the habit of learning Data Science every day 
 
 ### Liked my Contributions:question:[Follow Me](https://github.com/mrankitgupta/):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
-## For any queries/doubts 🔗
+## For any queries/doubts 🔗 👇 
 
 ### [Ankit Gupta](https://ankitgupta.bio.link/)
 <p align="left"> <a href="https://twitter.com/MrAnkitGupta_/" target="blank"><img src="https://img.shields.io/twitter/follow/MrAnkitGupta_?logo=twitter&style=for-the-badge" alt="MrAnkitGupta_" /></a> </p>
