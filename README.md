@@ -54,7 +54,7 @@
  
 <code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑
 
-<code>[Python Libraries](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️
+<code>[Python Libraries for Data Science](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️
  
 ## You can reach me  👇 
 
@@ -119,7 +119,7 @@
 |Day 45| Continued with **Python** (OOPs Concept - Polymorphism, Encapsulation) | [Project 1: Spotify Data Analysis using Python](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python)|
 |Day 46| Continued with **Python** (OOPs Concept - Data Abstraction, Python Super Function) |  [Project 2: Statistics for Data Science using Python](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python)|
 |Day 47| Completed with **Python** (Exception Handling, File Handling & Unit Testing in Python) | :white_check_mark:|
-|Day 48| Started with **Python Libraries - NumPy** (Basics, NumPy v/s MATLAB, NumPy v/s List, NdArray, Datatypes, Array Attributes) | [Python Libraries - Exercises](https://github.com/mrankitgupta/PythonLibraries)|
+|Day 48| Started with **Python Libraries - NumPy** (Basics, NumPy v/s MATLAB, NumPy v/s List, NdArray, Datatypes, Array Attributes) | [Python Libraries for Data Science - Exercises](https://github.com/mrankitgupta/PythonLibraries)|
 |Day 49| Continued with **Python Libraries - NumPy** (Indexing & Slicing, Array Creation, Broadcasting, Operations, Functions, Mathematics, Matrix, NumPy-Matplotlib) | [NumPy Tutorial - by Great Learning](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) & [JavaTpoint](https://www.javatpoint.com/numpy-tutorial), [YouTube](https://www.youtube.com/watch?v=WGJJIrtnfpk&t=27503s), [TutorialsPoint](https://www.tutorialspoint.com/numpy/index.htm) :white_check_mark:|
 |Day 50| Continued with **Python Libraries - Pandas** (Basics, Data Structures - Series, DataFrame, Panel) | [Pandas Course - by Kaggle](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) |
 |Day 51| Continued with **Python Libraries - Pandas** (Operations - Slicing, Merging, Joining, Concatenation) | [Kaggle Notebooks on Pandas](https://www.kaggle.com/mrankitgupta/code) & [GitHub Repo on Pandas](https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises) |
