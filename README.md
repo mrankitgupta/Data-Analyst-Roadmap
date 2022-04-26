@@ -145,6 +145,8 @@ Businesses use many modern tools and technologies to perform Data Analytics.
 |Day 65| **Project :** Boston Housing Data Analysis using Python | [Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project) |
 |Day 66| **Challenge accomplished** |:white_check_mark:|
 
+Useful Repositories to learn Data Science: <code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑 ,  <code>[Python Libraries for Data Science](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️ & <code>[Kaggle - Pandas Solved Exercises](https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises)</code> 📊
+ 
 So happy to have followed the journey through for the past 66 days.
 
 It has really been a great learning experience and I have learnt a lot.
