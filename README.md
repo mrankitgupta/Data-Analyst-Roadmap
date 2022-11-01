@@ -58,9 +58,9 @@ Businesses use many modern tools and technologies to perform Data Analytics.
  
 <code>[Kaggle - Pandas Solved Exercises](https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises)</code> 📊
  
-<code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑
+<code>[Complete Python Roadmap](https://github.com/mrankitgupta/Python-Roadmap)</code> 📑
 
-<code>[Python Libraries for Data Science](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️
+<code>[Python Libraries for Data Science](https://github.com/mrankitgupta/Python-Libraries-Roadmap)</code> 🗂️
 
 <code>[Library Management System using Python on Django](https://github.com/mrankitgupta/Library_Management_System_Django)</code>  👨‍💻 
  
@@ -147,7 +147,8 @@ Businesses use many modern tools and technologies to perform Data Analytics.
 |Day 65| **Project :** Boston Housing Data Analysis using Python | [Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project) |
 |Day 66| **Challenge accomplished** |:white_check_mark:|
 
-**Useful Repositories to learn Data Science:** <code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑 ,  <code>[Python Libraries for Data Science](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️ & <code>[Kaggle - Pandas Solved Exercises](https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises)</code> 📊
+**Useful Repositories to learn Data Science:** <code>[Complete Python Roadmap](https://github.com/mrankitgupta/Python-Roadmap)</code> 📑 <code>[Python Libraries for Data Science](https://github.com/mrankitgupta/Python-Libraries-Roadmap)</code> 🗂️
+ & <code>[Kaggle - Pandas Solved Exercises](https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises)</code> 📊
  
 So happy to have followed the journey through for the past 66 days.
 
